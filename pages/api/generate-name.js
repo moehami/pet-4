@@ -7,6 +7,7 @@ export default async function handler(req, res) {
   try {
     const { petType, gender } = req.body;
     const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
+   console.log("TRYING TO SEE STUFF HERE BUT UNABLE TO")
 
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST',
@@ -33,6 +34,8 @@ export default async function handler(req, res) {
 
     if (!response.ok) {
       throw new Error('Failed to generate name');
+            console.log(err);
+
     }
 
     const data = await response.json();
