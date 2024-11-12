@@ -36,33 +36,45 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div>
-      <h1>Pet Name Generator</h1>
-      <div>
-        <label>
+    <div className="p-4 max-w-md mx-auto bg-white rounded-xl shadow-md space-y-4">
+      <h1 className="text-2xl font-bold text-center">Pet Name Generator</h1>
+      <div className="space-y-2">
+        <label className="block text-sm font-medium text-gray-700">
           Pet Type:
           <input
             type="text"
             value={petType}
             onChange={(e) => setPetType(e.target.value)}
+            className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
           />
         </label>
       </div>
-      <div>
-        <label>
+      <div className="space-y-2">
+        <label className="block text-sm font-medium text-gray-700">
           Gender:
           <input
             type="text"
             value={gender}
             onChange={(e) => setGender(e.target.value)}
+            className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
           />
         </label>
       </div>
-      <button onClick={handleGenerateName} disabled={isLoading}>
+      <button
+        onClick={handleGenerateName}
+        disabled={isLoading}
+        className={`mt-4 w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white ${
+          isLoading ? 'bg-gray-400' : 'bg-indigo-600 hover:bg-indigo-700'
+        } focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500`}
+      >
         {isLoading ? 'Generating...' : 'Generate Name'}
       </button>
-      {generatedName && <p>Generated Name: {generatedName}</p>}
-      {error && <p>{error}</p>}
+      {generatedName && (
+        <p className="mt-4 text-center text-green-600">Generated Name: {generatedName}</p>
+      )}
+      {error && (
+        <p className="mt-4 text-center text-red-600">{error}</p>
+      )}
     </div>
   );
 }
