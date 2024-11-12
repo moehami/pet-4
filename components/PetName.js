@@ -23,17 +23,18 @@ const PetName = () => {
         },
         body: JSON.stringify({ petType, gender }),
       });
-  console.log("response component loaded");
+    console.log('the local path:', response);
 
 
       if (!response.ok) {
         throw new Error('Failed to generate name');
       }
+    console.log('why it fail', response);
 
       const data = await response.json();
       setGeneratedName(data.name);
     } catch (error) {
-      console.error('Error:', error);
+      console.error('Here is the data:', data);
       alert('Failed to generate name. Please try again.');
     } finally {
       setIsLoading(false);
