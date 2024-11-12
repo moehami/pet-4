@@ -1,14 +1,11 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
+// pages/api/generate-name.js
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-  apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY!,
+  apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY,
 });
 
-export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse
-) {
+export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
