@@ -23,6 +23,8 @@ const PetName = () => {
         },
         body: JSON.stringify({ petType, gender }),
       });
+  console.log("response component loaded");
+
 
       if (!response.ok) {
         throw new Error('Failed to generate name');
