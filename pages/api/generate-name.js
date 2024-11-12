@@ -1,4 +1,3 @@
-// pages/api/generate-name.ts
 import type { NextApiRequest, NextApiResponse } from 'next';
 import OpenAI from 'openai';
 
