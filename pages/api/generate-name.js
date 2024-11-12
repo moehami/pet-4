@@ -1,4 +1,6 @@
 // pages/api/generate-name.js
+import fetch from 'node-fetch';
+
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
@@ -7,7 +9,8 @@ export default async function handler(req, res) {
   try {
     const { petType, gender } = req.body;
     const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
-console.log('API Key:', apiKey);
+    console.log('API Key:', apiKey);
+    console.log('Received body:', { petType, gender });
 
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST',
@@ -33,18 +36,17 @@ console.log('API Key:', apiKey);
     });
 
     if (!response.ok) {
+      const errorText = await response.text();
       console.error('Failed response:', errorText);
       throw new Error('Failed to generate name');
-            console.log(err);
-
     }
 
     const data = await response.json();
     console.log('OpenAI Response:', data);
-    const generatedName = data.choices[0].message.content;
+    const generatedName = data.choices[0].message.content.trim();
     res.status(200).json({ name: generatedName });
   } catch (error) {
-    console.error('Error:', error);
-    res.status(500).json({ error: 'Failed to generate name' });
+    console.error('Error:', error.stack);
+    res.status(500).json({ error: 'Failed to generate name', details: error.message });
   }
 }
