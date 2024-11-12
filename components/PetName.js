@@ -1,8 +1,8 @@
-// components/PetName.tsx
+// components/PetName.js
 import { useState } from 'react';
 import Head from 'next/head';
 
-export default function PetName() {
+const PetName = () => {
   const [petType, setPetType] = useState('');
   const [gender, setGender] = useState('');
   const [generatedName, setGeneratedName] = useState('');
@@ -151,4 +151,6 @@ export default function PetName() {
       </div>
     </>
   );
-}
+};
+
+export default PetName;
