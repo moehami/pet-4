@@ -17,8 +17,9 @@ export default async function handler(req, res) {
         'Content-Type': 'application/json',
         'Authorization': `Bearer ${apiKey}`,
       },
-
-      body: JSON.stringify({ prompt: input, maxTokens: 10, stopSequences: ['.'], }), }); 
+body: JSON.stringify({
+  prompt: input, maxTokens: 10, stopSequences: ['.'], }), });
+    
     const data = await response.json(); 
       console.log("Ya man here is data output:",data);
     return data.completions[0].data.text; }; 
