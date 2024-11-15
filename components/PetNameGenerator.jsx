@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 export default function PetNameGenerator() {
   const [petType, setPetType] = useState('');
-  const [generatedNames, setGeneratedNames] = useState<string[]>([]);
+  const [generatedNames, setGeneratedNames] = useState([]);
   const [loading, setLoading] = useState(false);
 
   const generateNames = async () => {
