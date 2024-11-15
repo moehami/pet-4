@@ -26,7 +26,7 @@ export default async function handler(req, res) {
         max_tokens: 30
       })
     });
-
+    console.log('Ya man response :', response);
     if (!response.ok) {
       const errorText = await response.text();
       console.error('Failed response:', errorText);
@@ -34,7 +34,7 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json();
-    console.log('OpenAI Response:', data);
+    console.log('Ya man data Response:', data);
     const generatedName = data.choices[0].message.content.trim();
     res.status(200).json({ name: generatedName });
   } catch (error) {
