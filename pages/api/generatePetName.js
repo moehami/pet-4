@@ -1,6 +1,5 @@
 // pages/api/generatePetName.js
 
-const fetch = require("node-fetch");
 
 const API_URL = "https://api.ai21.com/studio/v1/j1-large/complete";
 const API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
