@@ -1,45 +1,35 @@
-// pages/api/generate-name.js
 
-export default async function handler(req, res) {
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
-  }
 
+import { NextResponse } from 'next/server';
+
+const AI21_API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
+
+export async function POST(request) {
   try {
-    const { petType, gender } = req.body;
-    const apiKey = process.env.NEXT_PUBLIC_AI21_API_KEY;
-    console.log('API Key:', apiKey);
-    console.log('Received body:', { petType, gender });
+    const { petType } = await request.json();
 
-    const response = await fetch('https://api.ai21.com/studio/v1/j2-grande-instruct/complete', {
+    const prompt = `Generate 5 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
+
+    const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
       method: 'POST',
       headers: {
+        'Authorization': `Bearer ${AI21_API_KEY}`,
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        prompt: `Generate a creative name for a ${gender} ${petType}.`,
-        numResults: 1,
+        prompt,
+        maxTokens: 100,
         temperature: 0.7,
-        max_tokens: 30
-      })
+        numResults: 1,
+      }),
     });
 
-    if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Failed response:', errorText);
-      throw new Error('Failed to generate pet name');
-    }
-
     const data = await response.json();
-    console.log('Ya man data Response:', data);
+    const generatedText = data.completions[0].data.text;
+    const names = generatedText.split(',').map(name => name.trim());
 
-    // Access the generated name using the correct structure
-    const generatedName = data.choices[0].message.content.trim();
-
-    return res.status(200).json({ name: generatedName });
+    return NextResponse.json({ names });
   } catch (error) {
-    console.error('Error:', error.stack);
-    res.status(500).json({ error: 'Failed to generate name', details: error.message });
+    return NextResponse.json({ error: 'Failed to generate names' }, { status: 500 });
   }
 }
