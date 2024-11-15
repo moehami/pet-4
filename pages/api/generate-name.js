@@ -30,15 +30,10 @@ export default async function handler(req, res) {
     if (!response.ok) {
       const errorText = await response.text();
       console.error('Failed response:', errorText);
-      throw new Error('Failed to generate name');
+      throw new Error('Failed to generate pet name');
     }
 
     const data = await response.json();
     console.log('Ya man data Response:', data);
-    const generatedName = data.choices[0].message.content.trim();
-    res.status(200).json({ name: generatedName });
-  } catch (error) {
-    console.error('Error:', error.stack);
-    res.status(500).json({ error: 'Failed to generate name', details: error.message });
-  }
-}
+   return data.completions[0].data.text;
+  
