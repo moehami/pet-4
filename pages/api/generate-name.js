@@ -1,21 +1,21 @@
-//import fetch from 'node-fetch';
+const API_URL = 'https://api.ai21.com/studio/v1/j1-large/complete';
+const API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
 
-const API_URL = 'https://api-inference.huggingface.co/models/gpt2';
-const API_KEY = process.env.NEXT_PUBLIC_HUGGINGFACE_API_KEY;
-    console.log('API Key:', apiKey);
-    console.log('Received body:', { petType, gender });
 const generateText = async (input) => {
   const response = await fetch(API_URL, {
     method: 'POST',
     headers: {
-      Authorization: `Bearer ${API_KEY}`,
+      'Authorization': `Bearer ${API_KEY}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ inputs: input }),
+    body: JSON.stringify({
+      prompt: input,
+      maxTokens: 10,
+      stopSequences: ['.'],
+    }),
   });
   const data = await response.json();
-  console.log('Response:', data);
-  return data[0].generated_text;
+  return data.completions[0].data.text;
 };
 
 // Use the function
