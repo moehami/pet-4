@@ -25,14 +25,18 @@ export default function PetName() {
       });
 
       if (!response.ok) {
+        console.log('Ya man response error reason is', response);
         throw new Error('Failed to generate name');
       }
 
       const data = await response.json();
       setGeneratedName(data.name);
+
+      console.log("Generated Pet Name:", data.name);
+
     } catch (error) {
-      console.error('Error:', error);
-      alert('Failed to generate name. Please try again.');
+console.error("Error generating pet name:", error);
+      alert('Failed to generate pet name. Please try again.');
     } finally {
       setIsLoading(false);
     }
