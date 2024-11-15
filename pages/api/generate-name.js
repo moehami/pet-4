@@ -1,7 +1,5 @@
 // pages/api/generate-name.js
-// pages/api/generate-name.js
 
-// No need for explicit import on the server-side
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
@@ -26,14 +24,22 @@ export default async function handler(req, res) {
         max_tokens: 30
       })
     });
-    console.log('Ya man response :', response);
+
     if (!response.ok) {
       const errorText = await response.text();
       console.error('Failed response:', errorText);
       throw new Error('Failed to generate pet name');
     }
-  }
+
     const data = await response.json();
     console.log('Ya man data Response:', data);
-   return data.completions[0].data.text;
-  
+
+    // Access the generated name using the correct structure
+    const generatedName = data.choices[0].message.content.trim();
+
+    return res.status(200).json({ name: generatedName });
+  } catch (error) {
+    console.error('Error:', error.stack);
+    res.status(500).json({ error: 'Failed to generate name', details: error.message });
+  }
+}
