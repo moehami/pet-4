@@ -1,4 +1,5 @@
 // pages/api/generate-name.js
+//import fetch from 'node-fetch';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -11,19 +12,32 @@ export default async function handler(req, res) {
     console.log('API Key:', apiKey);
     console.log('Received body:', { petType, gender });
 
-    const response = await fetch('https://api.ai21.com/studio/v1/j1-large/complete', {
+    const response = await fetch('https://api.ai21.com/studio/v1/j2-grande-instruct/complete', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
         'Authorization': `Bearer ${apiKey}`,
       },
-body: JSON.stringify({
-  prompt: input, maxTokens: 10, stopSequences: ['.'], }), });
-    
-    const data = await response.json(); 
-      console.log("Ya man here is data output:",data);
-    return data.completions[0].data.text; }; 
-  
-  // Use the function 
-  const text = await generateText('Generate a unique and creative pet name.'); 
-  console.log("Ya man here is text output:",text);
+      body: JSON.stringify({
+        prompt: `Generate a creative name for a ${gender} ${petType}.`,
+        numResults: 1,
+     temperature: 0.7,
+        max_tokens: 30
+      })
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Failed response:', errorText);
+      throw new Error('Failed to generate name');
+    }
+
+    const data = await response.json();
+    console.log('OpenAI Response:', data);
+    const generatedName = data.choices[0].message.content.trim();
+    res.status(200).json({ name: generatedName });
+  } catch (error) {
+    console.error('Error:', error.stack);
+    res.status(500).json({ error: 'Failed to generate name', details: error.message });
+  }
+}
