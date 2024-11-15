@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+//import fetch from 'node-fetch';
 
 const API_URL = 'https://api-inference.huggingface.co/models/gpt2';
 const API_KEY = process.env.NEXT_PUBLIC_HUGGINGFACE_API_KEY;
