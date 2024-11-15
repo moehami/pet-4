@@ -1,6 +1,7 @@
 // pages/api/generate-name.js
-//import fetch from 'node-fetch';
+// pages/api/generate-name.js
 
+// No need for explicit import on the server-side
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
@@ -21,7 +22,7 @@ export default async function handler(req, res) {
       body: JSON.stringify({
         prompt: `Generate a creative name for a ${gender} ${petType}.`,
         numResults: 1,
-     temperature: 0.7,
+        temperature: 0.7,
         max_tokens: 30
       })
     });
