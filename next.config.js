@@ -1,10 +1,8 @@
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
   /* config options here */
 }
-/** @type {import('next').NextConfig} */
-module.exports = {
-  reactStrictMode: true,
-  experimental: {
-    topLevelAwait: false,
-  },
-};
+ 
+module.exports = nextConfig
