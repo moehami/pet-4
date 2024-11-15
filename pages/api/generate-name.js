@@ -32,7 +32,7 @@ export default async function handler(req, res) {
       console.error('Failed response:', errorText);
       throw new Error('Failed to generate pet name');
     }
-
+  }
     const data = await response.json();
     console.log('Ya man data Response:', data);
    return data.completions[0].data.text;
