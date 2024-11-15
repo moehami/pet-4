@@ -5,6 +5,6 @@ const nextConfig = {
 module.exports = {
   reactStrictMode: true,
   experimental: {
-    topLevelAwait: true,
+    topLevelAwait: false,
   },
 };
