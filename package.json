@@ -1,5 +1,5 @@
 {
-  "name": "petshop-landing",
+  "name": "petsname4",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.0.5",
+    "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
