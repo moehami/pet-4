@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server';
 
 const AI21_API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
 
-export async function POST(request) {
+export default async function POST(request) {
   try {
     const { petType } = await request.json();
 
