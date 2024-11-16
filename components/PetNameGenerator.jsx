@@ -1,3 +1,4 @@
+'use client';
 
 import { useState } from 'react';
 
@@ -8,6 +9,8 @@ export default function PetNameGenerator() {
 
   const generateNames = async () => {
     setLoading(true);
+    console.log('Starting name generation for:', petType);
+
     try {
       const response = await fetch('/api/generate-names', {
         method: 'POST',
@@ -17,14 +20,16 @@ export default function PetNameGenerator() {
         body: JSON.stringify({ petType }),
       });
       
+      console.log('API Response Status:', response.status);
       const data = await response.json();
-      console.log("Ya man Prompt:", data);
-      setGeneratedNames(data.names);
+      console.log('Generated Names:', data);
+      
+      setGeneratedNames(data.names || []);
     } catch (error) {
-      console.log("Ya man error:", error);
-      console.error('Error generating names:', error);
+      console.log('Generation Error:', error);
+    } finally {
+      setLoading(false);
     }
-    setLoading(false);
   };
 
   return (
