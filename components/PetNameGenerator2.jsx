@@ -66,13 +66,15 @@ export default function PetNameGenerator() {
   };
 
   return (
-<div className="max-w-md mx-auto p-6 bg-no-repeat min-h-[400px]  shadow-lg rounded-lg border border-blue-200">
+    <div className"bg-hero lg:bg-hero lg:bg-cover
+  lg:bg-no-repeat min-h-[400px] lg:min-h-[805px]">
+<div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-white-200">
      
              <div className="hidden xl:flex mb-6 ml-5">
             <Image src={pretitleImg} width={"100%"} height={"auto"} alt="" />
           </div> 
   
-    <h1 className="text-2xl font-bold text-center text-blue-700 mb-6">
+    <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
       </h1>
 
@@ -136,14 +138,14 @@ export default function PetNameGenerator() {
 
       {generatedNames.length > 0 && (
         <div className="mt-6">
-          <h2 className="text-lg font-semibold text-blue-700 mb-4">
+          <h2 className="text-lg font-semibold text-orange mb-4">
             Generated Names:
           </h2>
           <div className="grid grid-cols-2 gap-4">
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
-                className="p-3 bg-blue-100 text-blue-700 border border-blue-300 rounded shadow text-center"
+                className="p-3 bg-blue-100 text-orange border border-white rounded shadow text-center"
               >
                 {name}
               </div>
@@ -151,6 +153,6 @@ export default function PetNameGenerator() {
           </div>
         </div>
       )}
-    </div>
+    </div></div>
   );
 }
