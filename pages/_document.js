@@ -12,6 +12,7 @@ export default function Document() {
            <title>Name My Pet</title>
 
         <meta name='description' content='Tiger Names Pets 1st ' />
+   <meta name="google-site-verification" content="Vy39PhyD2nktBGFbDwvkI2w0LdomDo4i-BeM5GX1vmU" />
         <link rel='icon' href='/favicon.ico' />
         {/* google font */}
         <link
