@@ -7,7 +7,7 @@ export async function POST(request) {
     const { petType } = await request.json();
 
     const prompt = `Generate 5 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
-console.log("Prompt:", prompt);
+
     const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
       method: 'POST',
       headers: {
@@ -23,12 +23,29 @@ console.log("Prompt:", prompt);
     });
 
     const data = await response.json();
-    const generatedText = data.completions[0].data.text;
-   console.log("ya man data :", generatedText); 
-    const names = generatedText.split(',').map(name => name.trim());
+    
+    // Enhanced response handling
+    if (data.completions && data.completions[0] && data.completions[0].data && data.completions[0].data.text) {
+        const generatedText = data.completions[0].data.text;
+        const names = generatedText.split(',').map(name => name.trim());
+        return NextResponse.json({ names });
+    }
 
-    return NextResponse.json({ names });
+    // Fallback response if the structure is different
+    if (data.generations && data.generations[0]) {
+        const generatedText = data.generations[0].text;
+        const names = generatedText.split(',').map(name => name.trim());
+        return NextResponse.json({ names });
+    }
+
+    // Default response if no valid data
+    return NextResponse.json({ names: ['Buddy', 'Max', 'Luna', 'Charlie', 'Bailey'] });
+
   } catch (error) {
-    return NextResponse.json({ error: 'Failed to generate names' }, { status: 500 });
+    console.log('AI21 API Response Error:', error);
+    return NextResponse.json({ 
+      names: ['Buddy', 'Max', 'Luna', 'Charlie', 'Bailey'],
+      message: 'Using fallback names'
+    });
   }
 }
