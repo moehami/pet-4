@@ -137,7 +137,7 @@ export default function PetNameGenerator() {
             Generated Names:
           </h2>
 
-          <div className="grid grid-cols-3 gap-4">
+          <div className="grid grid-cols-2 gap-4">
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
@@ -147,7 +147,7 @@ export default function PetNameGenerator() {
               </div>
                     
       )}
-Copy
+
     </div>
 
   );
