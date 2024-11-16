@@ -30,9 +30,11 @@ console.log("Prompt:", prompt);
         console.log("ya manga genrated text:", generatedText);
     const names = generatedText.split(',').map(name => name.trim());
     console.log("ya manga names is:", names);
-    return NextResponse.json({ names });
+     res.status(200).json({ names });
+  //  return NextResponse.json({ names });
   } catch (error) {
         console.log("ya manga error:", error);
-    return NextResponse.json({ error: 'Failed to generate pet names' }, { status: 500 });
+    res.status(500).json({ error: 'Internal Server Error' });
+   // return NextResponse.json({ error: 'Failed to generate pet names' }, { status: 500 });
   }
 }
