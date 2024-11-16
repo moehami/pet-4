@@ -8,8 +8,8 @@ export async function POST(request) {
   try {
     const { petType } = await request.json();
 
-    const prompt = `Generate 5 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
-
+    const prompt = `Generate 2 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
+console.log("Prompt:", prompt);
     const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
       method: 'POST',
       headers: {
@@ -25,11 +25,14 @@ export async function POST(request) {
     });
 
     const data = await response.json();
+    console.log("ya manga data:", data);
     const generatedText = data.completions[0].data.text;
+        console.log("ya manga genrated text:", generatedText);
     const names = generatedText.split(',').map(name => name.trim());
-
+    console.log("ya manga names is:", names);
     return NextResponse.json({ names });
   } catch (error) {
-    return NextResponse.json({ error: 'Failed to generate names' }, { status: 500 });
+        console.log("ya manga error:", error);
+    return NextResponse.json({ error: 'Failed to generate pet names' }, { status: 500 });
   }
 }
