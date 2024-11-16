@@ -7,8 +7,10 @@ export const metadata = {
 
 export default function Document() {
   return (
-    <Html>
+    <Html lang="en">
       <Head>
+           <title>Name My Pet</title>
+
         <meta name='description' content='Tiger Names Pets 1st ' />
         <link rel='icon' href='/favicon.ico' />
         {/* google font */}
