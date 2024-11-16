@@ -12,7 +12,7 @@ export default function PetNameGenerator() {
 
   //js copy
 
-window.addEventListener('load', function () {
+const window.addEventListener('load', function () {
     const clipboard = FlowbiteInstances.getInstance('CopyClipboard', 'npm-install-copy-text');
 
     const $defaultMessage = document.getElementById('default-message');
