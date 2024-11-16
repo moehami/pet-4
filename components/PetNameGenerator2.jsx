@@ -10,36 +10,6 @@ export default function PetNameGenerator() {
   const API_KEY_PRIMARY = process.env.NEXT_PUBLIC_AI21_API_KEY;
   const API_KEY_BACKUP = process.env.NEXT_PUBLIC_BACKUP_API_KEY;
 
-  //js copy
-
-const window.addEventListener('load', function () {
-    const clipboard = FlowbiteInstances.getInstance('CopyClipboard', 'npm-install-copy-text');
-
-    const $defaultMessage = document.getElementById('default-message');
-    const $successMessage = document.getElementById('success-message');
-
-    clipboard.updateOnCopyCallback((clipboard) => {
-        showSuccess();
-
-        // reset to default state
-        setTimeout(() => {
-            resetToDefault();
-        }, 2000);
-    })
-
-    const showSuccess = () => {
-        $defaultMessage.classList.add('hidden');
-        $successMessage.classList.remove('hidden');
-    }
-
-    const resetToDefault = () => {
-        $defaultMessage.classList.remove('hidden');
-        $successMessage.classList.add('hidden');
-    }
-})
-
-
-  // end of js copy
   // API endpoints
   const API_ENDPOINT_PRIMARY = "https://api.ai21.com/studio/v1/j2-ultra/complete";
   const API_ENDPOINT_BACKUP = "https://api.anthropic.com/v1/messages";
