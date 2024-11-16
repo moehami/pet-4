@@ -47,7 +47,7 @@ export default function PetNameGenerator() {
 
     // Clean and split the response text
     const rawNames1 = primaryNames;
-    const primaryNames = rawNames1
+    const primaryNames = rawNames1;
       .split(/[\n,]+/) // Split by newlines or commas
       .map((name) => name.trim()) // Remove extra whitespace
       .filter((name) => name); // Remove empty strings
@@ -66,7 +66,7 @@ export default function PetNameGenerator() {
 
     // Clean and split the response text
     const rawNames = backupNames;
-    const backupNames = rawNames
+    const backupNames = rawNames;
       .split(/[\n,]+/) // Split by newlines or commas
       .map((name) => name.trim()) // Remove extra whitespace
       .filter((name) => name); // Remove empty strings
@@ -175,7 +175,7 @@ const handleCopy = (name) => {
    <button
                   className="mt-2 py-1 px-3 bg-blue-700 text-white text-sm rounded hover:bg-blue-800"
                   onClick={() => handleCopy(name)}
-                >
+                />
                   {copiedName === name ? "Copied!" : "Copy"}
                 </button>
           </div>
