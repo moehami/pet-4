@@ -69,6 +69,9 @@ export default function PetNameGenerator() {
     <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
       </h1>
+<p className="iphone:text-gray-800 mt-2">
+                Generate the perfect name for your furry friend using AI
+              </p>
 
       <input
         type="text"
