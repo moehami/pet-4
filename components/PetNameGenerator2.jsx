@@ -145,6 +145,7 @@ export default function PetNameGenerator() {
                 {name}
               </div>
             ))}
+          <p className="text-sm">Copy </p>
           </div>
         </div>
       )}
