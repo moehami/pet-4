@@ -131,24 +131,23 @@ export default function PetNameGenerator() {
         )}
       </button>
 
-      {generatedNames.length > 0 && (
+  {generatedNames.length > 0 && (
         <div className="mt-6">
-          <h2 className="text-lg font-semibold text-orange mb-4">
+          <h2 className="text-lg font-semibold text-orange-700 mb-4">
             Generated Names:
           </h2>
-
           <div className="grid grid-cols-2 gap-4">
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
-                className="p-3 bg-orange-100 text-orange border border-orange-50 rounded shadow text-center"
+                className="p-3 bg-orange-100 text-orange-700 border border-orange-300 rounded shadow text-center"
               >
                 {name}
               </div>
-                    
+            ))}
+          </div>
+        </div>
       )}
-
     </div>
-
   );
 }
