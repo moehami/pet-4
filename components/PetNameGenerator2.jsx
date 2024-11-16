@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Header from "./Header";
 
 export default function PetNameGenerator() {
   const [petType, setPetType] = useState("");
@@ -63,6 +64,7 @@ export default function PetNameGenerator() {
   };
 
   return (
+     <Header />
     <div className="max-w-md mx-auto p-6 bg-blue-50 shadow-lg rounded-lg border border-blue-200">
       <h1 className="text-2xl font-bold text-center text-blue-700 mb-6">
         Pet Name Generator
