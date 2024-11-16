@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Header from "./Header";
+import Image from "next/image";
 import pretitleImg from "../public/img/hero/pretitle-img.svg";
 
 export default function PetNameGenerator() {
