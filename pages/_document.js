@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from 'next/document';
-import type { Metadata, Viewport } from "next/types";
 
 export const metadata: Metadata = {
  title: {
