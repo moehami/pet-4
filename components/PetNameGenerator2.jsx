@@ -1,6 +1,4 @@
 import { useState } from "react";
-import Image from "next/image";
-import pretitleImg from "../public/img/hero/pretitle-img.svg";
 
 export default function PetNameGenerator() {
   const [petType, setPetType] = useState("");
@@ -65,14 +63,10 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div className"bg-cream lg:bg-hero lg:bg-cover
+    <div className"bg-yellow lg:bg-hero lg:bg-cover
   lg:bg-no-repeat min-h-[400px] lg:min-h-[805px]">
 <div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-white-200">
      
-             <div className="hidden xl:flex mb-6 ml-5">
-            <Image src={pretitleImg} width={"100%"} height={"auto"} alt="" />
-          </div> 
-  
     <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
       </h1>
