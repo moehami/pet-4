@@ -13,7 +13,7 @@ export default function PetNameGenerator() {
     setGeneratedNames([]);
 
     try {
-      const response = await fetch("https://api.ai21.com/studio/v1/j2-ultra/complete", {
+      const response = await fetch("https://api.ai21.com/studio/v1/j2-grande-instruct/complete", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -21,8 +21,11 @@ export default function PetNameGenerator() {
         },
         body: JSON.stringify({
           prompt: `Suggest some creative ${gender} names for a ${petType}:`,
-          numResults: 1,
-          maxTokens: 50,
+  "numResults": 1,
+      "maxTokens": 16,
+      "temperature": 0.8,
+      "topKReturn": 0,
+      "topP":1,
         }),
       });
 
