@@ -64,7 +64,7 @@ export default function PetNameGenerator() {
 
   return (
 
-<div className="max-w-md mx-auto p-6 shadow-lg rounded-lg bg-orange-600 border border-white-200">
+<div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-white-200">
      
     <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
@@ -73,7 +73,7 @@ export default function PetNameGenerator() {
       <input
         type="text"
         placeholder="Enter pet type (e.g., dog, cat)"
-        className="w-full p-3 mb-4 bg-white border border-blue-300 rounded text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="w-full p-3 mb-4 bg-white border border-orange-300 rounded text-orange-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
         value={petType}
         onChange={(e) => setPetType(e.target.value)}
       />
@@ -84,8 +84,8 @@ export default function PetNameGenerator() {
             key={g}
             className={`py-2 px-4 rounded ${
               gender === g
-                ? "bg-blue-700 text-white"
-                : "bg-blue-100 text-blue-700 border border-blue-300 hover:bg-blue-200"
+                ? "bg-orange-700 text-white"
+                : "bg-orange-100 text-orange-700 border border-orange-300 hover:bg-orange-200"
             }`}
             onClick={() => setGender(g)}
           >
@@ -95,7 +95,7 @@ export default function PetNameGenerator() {
       </div>
 
       <button
-        className="w-full py-2 px-4 bg-blue-700 text-white rounded hover:bg-blue-800 transition disabled:opacity-50"
+        className="w-full py-2 px-4 bg-orange-700 text-white rounded hover:bg-orange-800 transition disabled:opacity-50"
         onClick={handleGenerateNames}
         disabled={loading}
       >
@@ -137,7 +137,7 @@ export default function PetNameGenerator() {
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
-                className="p-3 bg-blue-100 text-orange border border-white rounded shadow text-center"
+                className="p-3 bg-orange-100 text-orange border border-white rounded shadow text-center"
               >
                 {name}
               </div>
