@@ -38,9 +38,15 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div className="max-w-md mx-auto p-6 bg-white/10 shadow-lg rounded-lg backdrop-blur-sm">
-      <h1 className="text-xl font-bold text-center text-white mb-4">Pet Name Generator</h1>
-      
+      <div className="min-h-screen bg-gradient-to-b from-blue-50 to-blue-100 py-12 px-4">
+             <div className="max-w-md mx-auto">
+          <div className="bg-white rounded-xl shadow-xl p-6 space-y-6">
+            <div className="text-center">
+              <h1 className="text-2xl font-bold text-gray-800"> Pet Name Generator</h1>
+            <p className="text-gray-600 mt-2">
+                Generate the perfect name for your furry friend using AI
+              </p>
+            </div>
       <input
         type="text"
         placeholder="Enter pet type (e.g., dog, cat)"
@@ -100,7 +106,7 @@ export default function PetNameGenerator() {
       </button>
 
       {generatedNames.length > 0 && (
-        <div className="mt-6 bg-gray-800/50 p-4 rounded-lg">
+        <div className="mt-6 bg-gradient-to-b from-blue-200 to-blue-800  p-4 rounded-lg">
           <h2 className="text-lg font-semibold text-white mb-2">Generated Names:</h2>
           <ul className="list-disc pl-6 text-white space-y-1">
             {generatedNames.map((name, idx) => (
@@ -109,6 +115,6 @@ export default function PetNameGenerator() {
           </ul>
         </div>
       )}
-    </div>
+    </div>    </div>    </div>
   );
 }
