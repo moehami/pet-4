@@ -7,7 +7,6 @@ export default function PetNameGenerator() {
   const [generatedNames, setGeneratedNames] = useState([]);
   const [copiedName, setCopiedName] = useState(null);
 
-
   // Primary and backup API keys (store them securely in .env.local)
   const API_KEY_PRIMARY = process.env.NEXT_PUBLIC_AI21_API_KEY;
   const API_KEY_BACKUP = process.env.NEXT_PUBLIC_BACKUP_API_KEY;
@@ -42,10 +41,13 @@ export default function PetNameGenerator() {
       if (!primaryResponse.ok) throw new Error("Primary API failed");
 
       const primaryData = await primaryResponse.json();
-      const primaryNames = primaryData.completions[0].data.text.split(",").map((name) => name.trim());
-     format
-        );
 
+      // Clean and split names
+      const rawNames = primaryData.completions[0].data.text;
+      const primaryNames = rawNames
+        .split(/[\n,]+/) // Split by newlines or commas
+        .map((name) => name.trim()) // Trim whitespace
+        .filter((name) => name); // Remove empty strings
 
       setGeneratedNames(primaryNames);
     } catch (primaryError) {
@@ -57,13 +59,13 @@ export default function PetNameGenerator() {
         if (!backupResponse.ok) throw new Error("Backup API failed");
 
         const backupData = await backupResponse.json();
-        const backupNames = backupData.names; // Adjust according to the backup API response format
-        );
 
+        // Adjust according to the backup API's response format
+        const backupNames = backupData.names
+          .map((name) => name.trim()) // Trim whitespace
+          .filter((name) => name); // Remove empty strings
 
         setGeneratedNames(backupNames);
-
-        
       } catch (backupError) {
         console.error("Both APIs failed", backupError);
         alert("Something went wrong while generating names!");
@@ -72,23 +74,22 @@ export default function PetNameGenerator() {
       setLoading(false);
     }
   };
-  // copy
-const handleCopy = (name) => {
+
+  const handleCopy = (name) => {
     navigator.clipboard.writeText(name);
     setCopiedName(name);
     setTimeout(() => setCopiedName(null), 2000); // Clear feedback after 2 seconds
   };
-  return (
 
-<div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-orange-200">
-     
-    <h1 className="text-2xl font-bold text-center text-orange mb-6">
+  return (
+    <div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-orange-200">
+      <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
       </h1>
-<p className="text-orange-800 mt-2">
-                Generate the perfect name for your furry friend using AI
-              </p>
-<br />
+      <p className="text-orange-800 mt-2">
+        Generate the perfect name for your furry friend using AI
+      </p>
+      <br />
       <input
         type="text"
         placeholder="Enter pet type (e.g., dog, cat)"
@@ -147,7 +148,7 @@ const handleCopy = (name) => {
         )}
       </button>
 
-  {generatedNames.length > 0 && (
+      {generatedNames.length > 0 && (
         <div className="mt-6">
           <h2 className="text-lg font-semibold text-orange-700 mb-4">
             Generated Names:
@@ -156,18 +157,17 @@ const handleCopy = (name) => {
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
-                className="p-3 bg-orange-100 text-orange-700 border border-orange-300 rounded shadow text-center"
+                className="p-3 bg-orange-100 text-orange-700 border border-orange-300 rounded shadow text-center flex flex-col items-center"
               >
-                {name}
-              </div>
-            ))}
-
-   <button
+                <span>{name}</span>
+                <button
                   className="mt-2 py-1 px-3 bg-blue-700 text-white text-sm rounded hover:bg-blue-800"
                   onClick={() => handleCopy(name)}
-                />
+                >
                   {copiedName === name ? "Copied!" : "Copy"}
                 </button>
+              </div>
+            ))}
           </div>
         </div>
       )}
