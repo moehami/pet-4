@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { Html, Head, Main, NextScript } from 'next/document';
+import { Html, Main, NextScript } from 'next/document';
 
 export const metadata = {
  title: 'Tiger Names',
