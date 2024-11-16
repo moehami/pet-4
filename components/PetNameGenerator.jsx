@@ -19,8 +19,10 @@ export default function PetNameGenerator() {
       });
       
       const data = await response.json();
+      console.log("Ya man Prompt:", data);
       setGeneratedNames(data.names);
     } catch (error) {
+      console.log("Ya man error:", error);
       console.error('Error generating names:', error);
     }
     setLoading(false);
