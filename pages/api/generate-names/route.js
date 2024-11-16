@@ -7,7 +7,7 @@ export async function POST(request) {
     const { petType } = await request.json();
 
     const prompt = `Generate 5 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
-
+console.log("Prompt:", prompt);
     const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
       method: 'POST',
       headers: {
@@ -24,6 +24,7 @@ export async function POST(request) {
 
     const data = await response.json();
     const generatedText = data.completions[0].data.text;
+   console.log("ya man data :", generatedText); 
     const names = generatedText.split(',').map(name => name.trim());
 
     return NextResponse.json({ names });
