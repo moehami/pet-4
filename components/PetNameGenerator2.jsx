@@ -66,13 +66,12 @@ export default function PetNameGenerator() {
   };
 
   return (
-     <Header />
-    
-    <div className="max-w-md mx-auto p-6 bg-blue-50 shadow-lg rounded-lg border border-blue-200">
+<div className="max-w-md mx-auto p-6 bg-blue-50 shadow-lg rounded-lg border border-blue-200">
      
              <div className="hidden xl:flex mb-6 ml-5">
             <Image src={pretitleImg} width={"100%"} height={"auto"} alt="" />
           </div> 
+  
     <h1 className="text-2xl font-bold text-center text-blue-700 mb-6">
         Pet Name Generator
       </h1>
