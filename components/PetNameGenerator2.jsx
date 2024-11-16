@@ -63,8 +63,7 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div className"bg-yellow lg:bg-hero lg:bg-cover
-  lg:bg-no-repeat min-h-[400px] lg:min-h-[805px]">
+    <div className"bg-yellow">
 <div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-white-200">
      
     <h1 className="text-2xl font-bold text-center text-orange mb-6">
