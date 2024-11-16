@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Html, Head, Main, NextScript } from 'next/document';
 
 export const metadata = {
  title: 'Tiger Names',
@@ -7,6 +8,7 @@ export const metadata = {
 
 export default function Document() {
   return (
+   <Html lang="EN">
       <Head>
            <title>Name My Pet</title>
 
@@ -22,5 +24,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+     </Html>
+
   );
 }
