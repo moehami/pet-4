@@ -161,7 +161,7 @@ export default function PetNameGenerator() {
               >
                 <span>{name}</span>
                 <button
-                  className="mt-2 py-1 px-3 bg-blue-700 text-white text-sm rounded hover:bg-blue-800"
+                  className="mt-2 py-1 px-3 bg-orange-700 text-white text-sm rounded hover:bg-orange-800"
                   onClick={() => handleCopy(name)}
                 >
                   {copiedName === name ? "Copied!" : "Copy"}
