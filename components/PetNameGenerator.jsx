@@ -50,7 +50,7 @@ export default function PetNameGenerator() {
       <input
         type="text"
         placeholder="Enter pet type (e.g., dog, cat)"
-        className="w-full p-3 mb-4 bg-transparent border border-gray-300 text-white rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="w-full p-3 mb-4 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
         value={petType}
         onChange={(e) => setPetType(e.target.value)}
       />
@@ -61,8 +61,8 @@ export default function PetNameGenerator() {
             key={g}
             className={`py-2 px-4 rounded ${
               gender === g
-                ? "bg-blue-500 text-white"
-                : "bg-transparent border border-gray-300 text-white hover:bg-blue-500 hover:text-white"
+                ? "bg-blue-500 "
+                : "border border-gray-300 hover:bg-blue-500 hover:text-white"
             }`}
             onClick={() => setGender(g)}
           >
