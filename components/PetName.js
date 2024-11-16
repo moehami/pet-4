@@ -23,7 +23,7 @@ export default function PetName() {
         },
         body: JSON.stringify({ petType, gender }),
       });
-
+        console.log('Ya man response error reason is', response);
       if (!response.ok) {
         console.log('Ya man response error reason is', response);
         throw new Error('Failed to generate name');
