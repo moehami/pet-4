@@ -7,7 +7,6 @@ export const metadata = {
 
 export default function Document() {
   return (
-    <Html lang="en">
       <Head>
            <title>Name My Pet</title>
 
