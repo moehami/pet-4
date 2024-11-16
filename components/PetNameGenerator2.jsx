@@ -12,7 +12,7 @@ export default function PetNameGenerator() {
 
   // API endpoints
   const API_ENDPOINT_PRIMARY = "https://api.ai21.com/studio/v1/j2-ultra/complete";
-  const API_ENDPOINT_BACKUP = "https://api.backup-provider.com/v1/generate-names";
+  const API_ENDPOINT_BACKUP = "https://api.anthropic.com/v1/messages";
 
   const fetchNames = async (endpoint, apiKey) => {
     return await fetch(endpoint, {
