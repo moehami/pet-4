@@ -153,7 +153,7 @@ export default function PetNameGenerator() {
           <h2 className="text-lg font-semibold text-orange-700 mb-4">
             Generated Names:
           </h2>
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {generatedNames.map((name, idx) => (
               <div
                 key={idx}
