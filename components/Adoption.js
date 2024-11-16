@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import tigerzz from "../public/img/adoption/tigerzz.png";
 
-import GenrateName from "./components/PetNameGenerator";
+import GenrateName from "./PetNameGenerator";
 
 
 const Adoption = () => {
