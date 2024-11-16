@@ -42,6 +42,15 @@ export default function PetNameGenerator() {
 
       const primaryData = await primaryResponse.json();
       const primaryNames = primaryData.completions[0].data.text.split(",").map((name) => name.trim());
+     format
+        );
+
+    // Clean and split the response text
+    const rawNames1 = primaryNames;
+    const primaryNames = rawNames1
+      .split(/[\n,]+/) // Split by newlines or commas
+      .map((name) => name.trim()) // Remove extra whitespace
+      .filter((name) => name); // Remove empty strings
       setGeneratedNames(primaryNames);
     } catch (primaryError) {
       console.warn("Primary API failed, trying backup...", primaryError);
@@ -53,7 +62,18 @@ export default function PetNameGenerator() {
 
         const backupData = await backupResponse.json();
         const backupNames = backupData.names; // Adjust according to the backup API response format
+        );
+
+    // Clean and split the response text
+    const rawNames = backupNames;
+    const backupNames = rawNames
+      .split(/[\n,]+/) // Split by newlines or commas
+      .map((name) => name.trim()) // Remove extra whitespace
+      .filter((name) => name); // Remove empty strings
+        
         setGeneratedNames(backupNames);
+
+        
       } catch (backupError) {
         console.error("Both APIs failed", backupError);
         alert("Something went wrong while generating names!");
