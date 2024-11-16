@@ -13,7 +13,7 @@ export default function PetNameGenerator() {
     setGeneratedNames([]);
 
     try {
-      const response = await fetch("https://api.ai21.com/studio/v1/j2-grande-instruct/complete", {
+      const response = await fetch("https://api.ai21.com/studio/v1/j2-ultra/complete", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -21,11 +21,8 @@ export default function PetNameGenerator() {
         },
         body: JSON.stringify({
           prompt: `Suggest some creative ${gender} names for a ${petType}:`,
-  "numResults": 1,
-      "maxTokens": 16,
-      "temperature": 0.8,
-      "topKReturn": 0,
-      "topP":1,
+          numResults: 1,
+          maxTokens: 50,
         }),
       });
 
@@ -41,19 +38,15 @@ export default function PetNameGenerator() {
   };
 
   return (
-      <div className="min-h-screen bg-gradient-to-b from-blue-50 to-blue-100 py-12 px-4">
-             <div className="max-w-md mx-auto">
-          <div className="bg-white rounded-xl shadow-xl p-6 space-y-6">
-            <div className="text-center">
-              <h1 className="text-2xl font-bold text-gray-800"> Pet Name Generator</h1>
-            <p className="text-gray-600 mt-2">
-                Generate the perfect name for your furry friend using AI
-              </p>
-            </div>
+    <div className="max-w-md mx-auto p-6 bg-blue-50 shadow-lg rounded-lg border border-blue-200">
+      <h1 className="text-2xl font-bold text-center text-blue-700 mb-6">
+        Pet Name Generator
+      </h1>
+
       <input
         type="text"
         placeholder="Enter pet type (e.g., dog, cat)"
-        className="w-full p-3 mb-4 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="w-full p-3 mb-4 bg-white border border-blue-300 rounded text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
         value={petType}
         onChange={(e) => setPetType(e.target.value)}
       />
@@ -64,8 +57,8 @@ export default function PetNameGenerator() {
             key={g}
             className={`py-2 px-4 rounded ${
               gender === g
-                ? "bg-blue-500 "
-                : "border border-gray-300 hover:bg-blue-500 hover:text-white"
+                ? "bg-blue-700 text-white"
+                : "bg-blue-100 text-blue-700 border border-blue-300 hover:bg-blue-200"
             }`}
             onClick={() => setGender(g)}
           >
@@ -75,7 +68,7 @@ export default function PetNameGenerator() {
       </div>
 
       <button
-        className="w-full py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+        className="w-full py-2 px-4 bg-blue-700 text-white rounded hover:bg-blue-800 transition disabled:opacity-50"
         onClick={handleGenerateNames}
         disabled={loading}
       >
@@ -90,34 +83,4 @@ export default function PetNameGenerator() {
               <circle
                 className="opacity-25"
                 cx="12"
-                cy="12"
-                r="10"
-                stroke="currentColor"
-                strokeWidth="4"
-              ></circle>
-              <path
-                className="opacity-75"
-                fill="currentColor"
-                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-              ></path>
-            </svg>
-            Generating...
-          </div>
-        ) : (
-          "Generate Names"
-        )}
-      </button>
-
-      {generatedNames.length > 0 && (
-        <div className="mt-6 bg-gradient-to-b from-blue-200 to-blue-800  p-4 rounded-lg">
-          <h2 className="text-lg font-semibold text-white mb-2">Generated Names:</h2>
-          <ul className="list-disc pl-6 text-white space-y-1">
-            {generatedNames.map((name, idx) => (
-              <li key={idx}>{name}</li>
-            ))}
-          </ul>
-        </div>
-      )}
-    </div>    </div>    </div>
-  );
-}
+                cy="12
