@@ -115,7 +115,7 @@ export default function PetNameGenerator() {
       </div>
 
       <button
-        className="w-full py-2 px-4 bg-orange-700 text-white rounded hover:bg-orange-800 transition disabled:opacity-50"
+        className="btn btn-orange"
         onClick={handleGenerateNames}
         disabled={loading}
       >
