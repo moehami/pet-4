@@ -6,8 +6,9 @@ const AI21_API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
 
 export default async function POST(request) {
   try {
-    const { petType } = await request.json();
-
+  //  const { petType } = await request.json();
+    
+const { petType, gender } = JSON.parse(reqest.body);
     const prompt = `Generate 2 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
 console.log("Prompt:", prompt);
     const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
@@ -23,6 +24,7 @@ console.log("Prompt:", prompt);
         numResults: 1,
       }),
     });
+
 
     const data = await response.json();
     console.log("ya manga data:", data);
