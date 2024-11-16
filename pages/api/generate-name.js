@@ -11,15 +11,16 @@ export default async function POST(request) {
 const { petType, gender } = JSON.parse(request.body);
     const prompt = `Generate 2 creative and unique pet names for a ${petType}. Only return the names separated by commas.`;
 console.log("Prompt:", prompt);
-    const response = await fetch('https://api.ai21.com/studio/v1/j2-ultra/complete', {
+    const response = await fetch('https://api.ai21.com/studio/v1/j2-grande-instruct/complete', {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${AI21_API_KEY}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        prompt,
-        maxTokens: 100,
+        prompt: '${prompt}',
+        numResults: 1,
+        maxTokens: 10,
         temperature: 0.7,
         numResults: 1,
       }),
