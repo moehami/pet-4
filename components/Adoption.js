@@ -4,7 +4,6 @@ import Image from "next/image";
 
 import tigerzz from "../public/img/adoption/tigerzz.png";
 
-import GenrateName from "./PetNameGenerator";
 
 
 const Adoption = () => {
@@ -21,7 +20,7 @@ const Adoption = () => {
           <p className="mb-6">
 The tiger is one of the most iconic and powerful big cats, conventionally orange with black stripes. Native to Asia, tigers are solitary hunters with exceptionally good night vision. All subspecies of tigers are endangered, either because of habitat loss or poaching, putting a great emphasis on the global scale of conservation efforts.
           </p>
-      <GenrateName />
+
           <button className="btn btn-primary mx-auto lg:mx-0">Explore</button>
         </div>
       </div>
