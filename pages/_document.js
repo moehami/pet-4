@@ -1,6 +1,6 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 
-export const metadata: Metadata = {
+export const metadata = {
  title: {
         template: '%s | Tiger Names',
         default: 'Tiger Names'
