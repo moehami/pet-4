@@ -24,13 +24,14 @@ export async function POST(request) {
     });
 
     const data = await response.json();
+    console.log("AI21 Response:", data);
     const generatedText = data.completions[0].text;
     const names = generatedText
       .split(/[,\n]/)
       .map(name => name.trim())
       .filter(name => name.length > 0)
       .slice(0, 5);
-
+console.log("AI21 2nd Response:", names);
     return NextResponse.json({ names });
   } catch (error) {
     console.log('API Details:', error);
