@@ -4,7 +4,8 @@ export const metadata = {
     title: {
         template: '%s | Tiger Names',
         default: 'Tiger Names'
-    }
+    },
+      keywords: "tiger names, genrate pet name",
 };
 
 export default function Document() {
