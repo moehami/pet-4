@@ -4,6 +4,7 @@ const AI21_API_KEY = process.env.NEXT_PUBLIC_AI21_API_KEY;
 
 export async function POST(request) {
   console.log('API Route Started');
+  console.log("Start of Log");
   console.log('Checking AI21 API Key:', AI21_API_KEY ? 'Present' : 'Missing');
 
   try {
