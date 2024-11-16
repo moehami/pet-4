@@ -102,7 +102,7 @@ export default function PetNameGenerator() {
         {["any", "male", "female"].map((g) => (
           <button
             key={g}
-            className={`btn py-2 px-4 rounded ${
+            className={`btn btn-orange py-2 px-4 rounded ${
               gender === g
                 ? "btn bg-orange-700 text-white"
                 : "btn bg-orange-100 text-orange-700 border border-orange-300 hover:bg-orange-200"
