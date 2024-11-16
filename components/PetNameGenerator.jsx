@@ -23,6 +23,7 @@ export default function PetNameGenerator() {
           prompt: `Suggest some creative ${gender} names for a ${petType}:`,
           numResults: 1,
           maxTokens: 50,
+          stopSequences: [".", "\n"],
         }),
       });
 
@@ -42,6 +43,9 @@ export default function PetNameGenerator() {
       <h1 className="text-2xl font-bold text-center text-blue-700 mb-6">
         Pet Name Generator
       </h1>
+                    <p className="text-gray-800 mt-2">
+                Generate the perfect name for your furry friend using AI
+              </p>
 
       <input
         type="text"
