@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Header from "./Header";
 import Image from "next/image";
 import pretitleImg from "../public/img/hero/pretitle-img.svg";
 
@@ -66,7 +65,7 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div className"bg-hero lg:bg-hero lg:bg-cover
+    <div className"bg-cream lg:bg-hero lg:bg-cover
   lg:bg-no-repeat min-h-[400px] lg:min-h-[805px]">
 <div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-white-200">
      
