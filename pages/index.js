@@ -11,15 +11,12 @@ const Home = () => {
   return (
     <div className='max-w-[1440px] mx-auto overflow-hidden'>
       <Hero />
+          <PetName />
       <Pets />
       <Services />
       <Adoption />
 
-       <div className="container mx-auto px-4 py-8">
-      <PetName />
-    </div>
-
- <Newsletter />
+<Newsletter />
       <Footer />
     </div>
   );
