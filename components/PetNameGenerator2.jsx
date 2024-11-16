@@ -7,6 +7,7 @@ export default function PetNameGenerator() {
   const [generatedNames, setGeneratedNames] = useState([]);
   const [copiedName, setCopiedName] = useState(null);
 
+
   // Primary and backup API keys (store them securely in .env.local)
   const API_KEY_PRIMARY = process.env.NEXT_PUBLIC_AI21_API_KEY;
   const API_KEY_BACKUP = process.env.NEXT_PUBLIC_BACKUP_API_KEY;
@@ -45,12 +46,7 @@ export default function PetNameGenerator() {
      format
         );
 
-    // Clean and split the response text
-    const rawNames1 = primaryNames;
-    const primaryNames = rawNames1;
-      .split(/[\n,]+/) // Split by newlines or commas
-      .map((name) => name.trim()) // Remove extra whitespace
-      .filter((name) => name); // Remove empty strings
+
       setGeneratedNames(primaryNames);
     } catch (primaryError) {
       console.warn("Primary API failed, trying backup...", primaryError);
@@ -64,13 +60,7 @@ export default function PetNameGenerator() {
         const backupNames = backupData.names; // Adjust according to the backup API response format
         );
 
-    // Clean and split the response text
-    const rawNames = backupNames;
-    const backupNames = rawNames;
-      .split(/[\n,]+/) // Split by newlines or commas
-      .map((name) => name.trim()) // Remove extra whitespace
-      .filter((name) => name); // Remove empty strings
-        
+
         setGeneratedNames(backupNames);
 
         
