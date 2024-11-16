@@ -66,7 +66,7 @@ export default function PetNameGenerator() {
   };
 
   return (
-<div className="max-w-md mx-auto p-6 bg-blue-50 shadow-lg rounded-lg border border-blue-200">
+<div className="max-w-md mx-auto p-6 bg-no-repeat min-h-[400px]  shadow-lg rounded-lg border border-blue-200">
      
              <div className="hidden xl:flex mb-6 ml-5">
             <Image src={pretitleImg} width={"100%"} height={"auto"} alt="" />
