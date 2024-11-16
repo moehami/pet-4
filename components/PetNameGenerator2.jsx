@@ -102,10 +102,10 @@ export default function PetNameGenerator() {
         {["any", "male", "female"].map((g) => (
           <button
             key={g}
-            className={`py-2 px-4 rounded ${
+            className={`btn py-2 px-4 rounded ${
               gender === g
-                ? "bg-orange-700 text-white"
-                : "bg-orange-100 text-orange-700 border border-orange-300 hover:bg-orange-200"
+                ? "btn bg-orange-700 text-white"
+                : "btn bg-orange-100 text-orange-700 border border-orange-300 hover:bg-orange-200"
             }`}
             onClick={() => setGender(g)}
           >
@@ -115,7 +115,7 @@ export default function PetNameGenerator() {
       </div>
 
       <button
-        className="btn btn-orange"
+        className="btn btn-orange mx-auto lg:mx-0"
         onClick={handleGenerateNames}
         disabled={loading}
       >
@@ -161,7 +161,7 @@ export default function PetNameGenerator() {
               >
                 <span>{name}</span>
                 <button
-                  className="mt-2 py-1 px-3 bg-orange-700 text-white text-sm rounded hover:bg-orange-800"
+                  className="btn mt-2 py-1 px-3 bg-orange-700 text-white text-sm rounded hover:bg-orange-800"
                   onClick={() => handleCopy(name)}
                 >
                   {copiedName === name ? "Copied!" : "Copy"}
