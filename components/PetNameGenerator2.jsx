@@ -82,7 +82,7 @@ export default function PetNameGenerator() {
   };
 
   return (
-    <div className="max-w-md mx-auto p-6 shadow-lg rounded-lg border border-orange-200">
+    <div className="md:w-16 mx-auto p-6 shadow-lg rounded-lg border border-orange-200">
       <h1 className="text-2xl font-bold text-center text-orange mb-6">
         Pet Name Generator
       </h1>
