@@ -28,9 +28,12 @@ export default function PetNameGenerator() {
       });
 
       const data = await response.json();
+      console.log("start of ", data);
       const names = data.completions[0].data.text.split(",").map((name) => name.trim());
+           console.log("start of names", names);
       setGeneratedNames(names);
     } catch (error) {
+            console.log("error", error);
       console.error("Error generating names:", error);
       alert("Something went wrong while generating names!");
     } finally {
