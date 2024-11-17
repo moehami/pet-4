@@ -19,7 +19,7 @@ console.log("Prompt:", prompt);
         'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type, Authorization',
-     
+      },
       body: JSON.stringify({
         prompt: '${prompt}',
         numResults: 1,
