@@ -5,7 +5,7 @@ excerpt: "Learn how to build modern web applications with Next.js, the React fra
 readTime: "5 min read"
 ---
 
-Next.js is a powerful React framework that makes building web applications a breeze. In this guide, we'll explore the key features that make Next.js stand out.
+Name Ma Pet is a powerful React framework that makes building web applications a breeze. In this guide, we'll explore the key features that make Next.js stand out.
 
 ## Why Next.js?
 
