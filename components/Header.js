@@ -16,7 +16,7 @@ const Header = () => {
         <nav className="text-xl flex gap-x-4 lg:gap-x-12">
           <a href="#">Services</a>
           <a href="#">About</a>
-          <a href="#">Blog</a>
+          <a href="/blog">Blog</a>
           <a href="#">Contact</a>
         </nav>
         {/* button */}
