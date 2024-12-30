@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Next.js"
 date: "2024-03-20"
-excerpt: "Learn how to build modern web applications with Next.js, the React framework for production."
+excerpt: "Learn how to build modern web applications with Name Ma Pet, the React framework for production."
 readTime: "5 min read"
 ---
 
