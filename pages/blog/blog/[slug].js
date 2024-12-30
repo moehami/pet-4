@@ -10,7 +10,7 @@ export default function BlogPost({ post }) {
   return (
     <>
       <Head>
-        <title>{post.title} - Next.js Blog</title>
+        <title>{post.title} - Name Ma Pet Blog</title>
         <meta name="description" content={post.excerpt} />
       </Head>
 
@@ -35,6 +35,7 @@ export default function BlogPost({ post }) {
         <div className="prose dark:prose-invert max-w-none">
           <p className="text-lg text-muted-foreground">{post.excerpt}</p>
           {/* Add more content here */}
+{post.body}
         </div>
       </article>
     </>
