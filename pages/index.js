@@ -10,7 +10,7 @@ import Layout from '../components/Layout';
 
 const Home = () => {
   return (
-    <Layout title="Home">
+    <Layout title="Home Page">
     <div className='max-w-[1440px] mx-auto overflow-hidden'>
       <Hero />
       <PetName />

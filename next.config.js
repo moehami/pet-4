@@ -10,7 +10,7 @@ const nextConfig = {
       },
     ],
   },
-
+  
   // Enable experimental features if needed
   experimental: {
     // Enable if you need app directory features

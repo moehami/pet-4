@@ -10,7 +10,7 @@ export default function Navbar() {
   const { theme, setTheme } = useTheme()
 
   return (
-    <nav className="bg-background border-b">
+    <nav className="bg-background border-b dark:text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
