@@ -4,18 +4,28 @@ import { ArrowLeft } from 'lucide-react'
 import { getPostBySlug, getAllPosts } from '@/lib/posts'
 import { formatDate } from '@/lib/utils/date'
 import BlogLayout from '@/components/blog';
+import { useEffect } from 'react';
+
 
 export default function BlogPost({ post }) {
   if (!post) return null
 
-  if (typeof window !== 'undefined') { 
-    const allH2Elements = document.querySelectorAll('h2');
-    allH2Elements.forEach((h2) => {
- 
-      h2.style.fontSize = '1.5rem';
-      h2.style.fontWeight = 'bold'; 
+  useEffect(() => {
+    // Apply styles to h2, h3, and h4 elements
+    const headings = ['h2', 'h3', 'h4'];
+    headings.forEach((tag) => {
+      const elements = document.querySelectorAll(tag);
+      elements.forEach((element) => {
+        if (tag === 'h2') {
+          element.classList.add('text-2xl', 'font-bold'); // Tailwind classes for h2
+        } else if (tag === 'h3') {
+          element.classList.add('text-xl', 'font-semibold'); // Tailwind classes for h3
+        } else if (tag === 'h4') {
+          element.classList.add('text-lg', 'font-medium'); // Tailwind classes for h4
+        }
+      });
     });
-  }
+  }, []);
   return (
     <>
       <Head>
@@ -23,7 +33,7 @@ export default function BlogPost({ post }) {
         <meta name="description" content={post.excerpt} />
       </Head>
 <BlogLayout>
-      <article className="max-w-3xl mx-auto px-4 sm:px-6 py-12 dark:text-white">
+      <article className="max-w-4xl mx-auto px-4 sm:px-6 py-12 dark:text-white">
         <Link 
           href="/" 
           className="inline-flex items-center text-sm text-muted-foreground hover:text-primary mb-8"

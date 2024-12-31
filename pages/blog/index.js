@@ -13,7 +13,10 @@ export default function Home({ posts }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 <BlogLayout>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 dark:text-white">
+<div class="min-h-screen flex items-center justify-center bg-white">
+
+      <div className="rainbow-mesh-gradient  max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 dark:text-white ">
+        
         <section className="text-center mb-16">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-4">
             Welcome to Our Blog
@@ -28,6 +31,7 @@ export default function Home({ posts }) {
             <BlogPost key={post.slug} post={post} />
           ))}
         </div>
+      </div>
       </div>
       </BlogLayout>
     </>

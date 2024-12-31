@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+/* globals.css */
+.rainbow-mesh-gradient {
+  background: 
+    radial-gradient(circle at 20% 20%, #ff00800c, transparent 40%),
+    radial-gradient(circle at 60% 20%, #ff8c001a, transparent 1%),
+    radial-gradient(circle at 20% 80%, rgba(255, 255, 0, 0.432), transparent 10%),
+    radial-gradient(circle at 80% 80%, #00ff0041, transparent 10%),
+    radial-gradient(circle at 50% 50%, #ff990041, transparent 70%);
+   
+   
+  background-blend-mode: screen, multiply, difference, exclusion, hue, color;
+  background-size: 100% 100%;
+}
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;
