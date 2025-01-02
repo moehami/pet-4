@@ -10,7 +10,7 @@
   directory = "netlify/functions"
 
 [[plugins]]
-  package = "@netlify/plugin-functions-core"
+  package = "@netlify/functions"
 
 [[scheduled-functions]]
   function = "generate-metadata"
