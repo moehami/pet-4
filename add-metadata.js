@@ -2,8 +2,14 @@ const fs = require('fs');
 const path = require('path');
 
 // Define folder and file paths
-const folderPath = path.join(__dirname, 'public', 'testa');
-const seoFilePath = path.join(__dirname, 'public', 'testa', 'seo.json');
+const folderPath = path.join(__dirname, 'public', 'source');
+const seoFilePath = path.join(__dirname, 'public', 'source', 'seo.json');
+const destPath = path.join(__dirname, 'posts');
+
+// Create destination folder if it doesn't exist
+if (!fs.existsSync(destPath)) {
+  fs.mkdirSync(destPath, { recursive: true });
+}
 
 // Helper function to get the current system date in YYYY-MM-DD format
 const getCurrentDate = () => {
@@ -35,6 +41,10 @@ try {
   process.exit(1);
 }
 
+// Limit the number of files to process
+const LIMIT = 10; // Change this number to set your desired limit
+let processedCount = 0;
+
 // Check if the folder exists
 if (fs.existsSync(folderPath)) {
   // Read all files in the folder
@@ -45,7 +55,10 @@ if (fs.existsSync(folderPath)) {
 
   // Iterate through each markdown file
   mdFiles.forEach((file) => {
+    if (processedCount >= LIMIT) return; // Stop processing after reaching the limit
+
     const filePath = path.join(folderPath, file);
+    const destFilePath = path.join(destPath, file);
 
     // Extract keyword from filename by replacing hyphens with spaces and removing extension
     const keyword = path.basename(file, '.md').replace(/-/g, ' ');
@@ -64,14 +77,7 @@ if (fs.existsSync(folderPath)) {
         const readTime = calculateReadTime(fileContent);
 
         // Generate metadata
-        const metadata = `---
-title: "${seoTitle}"
-date: "${getCurrentDate()}"
-excerpt: "${seoDescription}"
-readTime: "${readTime}"
----
-
-`;
+        const metadata = `---\ntitle: "${seoTitle}"\ndate: "${getCurrentDate()}"\nexcerpt: "${seoDescription}"\nreadTime: "${readTime}"\n---\n\n`;
 
         // Combine metadata with the original content
         const updatedContent = metadata + fileContent;
@@ -82,6 +88,16 @@ readTime: "${readTime}"
             console.error(`Error writing to file ${file}:`, writeErr);
           } else {
             console.log(`Metadata dynamically added to file: ${file}`);
+
+            // Move the file to the final folder after updating
+            fs.rename(filePath, destFilePath, (renameErr) => {
+              if (renameErr) {
+                console.error(`Error moving file ${file}:`, renameErr);
+              } else {
+                console.log(`File moved to final folder: ${destFilePath}`);
+                processedCount++; // Increment the processed file count
+              }
+            });
           }
         });
       }
