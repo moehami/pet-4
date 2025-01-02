@@ -12,7 +12,7 @@ export default function BlogPost({ post }) {
 
   useEffect(() => {
     // Apply styles to h2, h3, and h4 elements
-    const headings = ['h2', 'h3', 'h4'];
+    const headings = ['h2', 'h3', 'h4', 'ul', 'li'];
     headings.forEach((tag) => {
       const elements = document.querySelectorAll(tag);
       elements.forEach((element) => {
@@ -23,6 +23,17 @@ export default function BlogPost({ post }) {
         } else if (tag === 'h4') {
           element.classList.add('text-lg', 'font-medium'); // Tailwind classes for h4
         }
+        else if (tag === 'ul') {
+          element.classList.add('list-disc', 'list-inside'); // Tailwind classes for ul
+        }
+        else if (tag === 'li') {
+          element.classList.add('items-center', 'space-x-2', 'mb-4'); // Tailwind classes for li
+        }
+        else if (tag === 'ol') {
+          element.classList.add('list-decimal', 'list-inside', 'space-y-1', 'mb-2'); // Tailwind classes for li
+        }
+        
+        
       });
     });
   }, []);
