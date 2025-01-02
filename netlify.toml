@@ -5,16 +5,9 @@
   publish = "/out"
   base = "/"
   node_version = "20.17.0"
-  
-  [functions]
-  directory = "netlify/functions"
 
-[[plugins]]
-  package = "@netlify/functions"
-
-[[scheduled-functions]]
-  function = "generate-metadata"
-  schedule = "0 0 * * *" # Runs daily at midnight
+[functions."generate-metadata"]
+schedule = "0 0 * * *" # Runs daily at midnight
 
 
 
