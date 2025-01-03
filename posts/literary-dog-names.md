@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Bookish Dog Names: Holmes & Dickens"
+date: "2024-11-07"
+excerpt: "Find the perfect name for your bookish pup! Explore our list of 20+ literary dog names, inspired by famous authors and characters."
+readTime: "5 min read"
 ---
 
 **Literary Dog Names: The Ultimate Guide for Bookworm Pet Parents**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Chubby Cat Names Chubbs & Tubby"
+date: "2025-01-02"
+excerpt: "Find the perfect name for your cuddly feline! Explore our list of 15+ chubby and unique cat names, inspired by their round and cuddly appearance."
+readTime: "13 min read"
 ---
 
 **Fat Cat Names: The Ultimate Guide for Pet Owners** 

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Wild Lynx Names: Shadow & Storm"
+date: "2024-11-03"
+excerpt: "Find the perfect name for your elusive lynx! Explore our list of 15+ wild and unique lynx names, inspired by their stealth and agility."
+readTime: "15 min read"
 ---
 
 **Lynx Names: A Comprehensive Guide to Familiarizing With Different Types of Lynxes and Their Names** 

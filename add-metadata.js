@@ -11,10 +11,12 @@ if (!fs.existsSync(destPath)) {
   fs.mkdirSync(destPath, { recursive: true });
 }
 
-// Helper function to get the current system date in YYYY-MM-DD format
-const getCurrentDate = () => {
-  const now = new Date();
-  return now.toISOString().split('T')[0]; // Formats as YYYY-MM-DD
+// Helper function to get a random date between 1 November 2024 and 3 January 2025
+const getRandomDate = () => {
+  const startDate = new Date('2024-11-01');
+  const endDate = new Date('2025-01-03');
+  const randomDate = new Date(startDate.getTime() + (Math.random() * (endDate.getTime() - startDate.getTime())));
+  return randomDate.toISOString().split('T')[0]; // Formats as YYYY-MM-DD
 };
 
 // Helper function to calculate read time
@@ -76,8 +78,8 @@ if (fs.existsSync(folderPath)) {
         // Calculate read time
         const readTime = calculateReadTime(fileContent);
 
-        // Generate metadata
-        const metadata = `---\ntitle: "${seoTitle}"\ndate: "${getCurrentDate()}"\nexcerpt: "${seoDescription}"\nreadTime: "${readTime}"\n---\n\n`;
+        // Generate metadata with a random date
+        const metadata = `---\ntitle: "${seoTitle}"\ndate: "${getRandomDate()}"\nexcerpt: "${seoDescription}"\nreadTime: "${readTime}"\n---\n\n`;
 
         // Combine metadata with the original content
         const updatedContent = metadata + fileContent;

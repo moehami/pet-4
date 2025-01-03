@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Dazzling Dragonfly Names Blaze & Jewel"
+date: "2024-11-16"
+excerpt: "Find the perfect name for your dazzling dragonfly! Explore our list of 15+ dazzling and unique dragonfly names, inspired by their vibrant colors and graceful flight."
+readTime: "15 min read"
 ---
 
 **Dragonfly Names: A Complete Guide to Naming Common and Exotic Dragonflies** 

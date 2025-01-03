@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Wise Orangutan Names Susie & Tarzan"
+date: "2024-12-21"
+excerpt: "Find the perfect name for your wise orangutan! Explore our list of 15+ wise and unique orangutan names, inspired by their intelligence and gentle nature."
+readTime: "12 min read"
 ---
 
 **Orangutan Names: Ultimate Guide for Baby, Adult, Male, Female, and Groups** 

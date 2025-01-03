@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Cute Guinea Pig Names Bubbles & Pepper"
+date: "2024-12-26"
+excerpt: "Find the perfect name for your adorable guinea pig! Explore our list of 20+ cute and unique guinea pig names, inspired by their playful and cuddly personalities."
+readTime: "7 min read"
 ---
 
 **Guinea Pig Names: 100+ Ideas for Cute, Funny, and Creative Names for Your Guinea Pigs**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Quirky Platypus Names: Perry & Platty"
+date: "2024-12-07"
+excerpt: "Find the perfect name for your quirky platypus! Explore our list of 15+ quirky and unique platypus names, inspired by their unusual features."
+readTime: "13 min read"
 ---
 
 **Platypus Names: Ultimate Guide for Breeders, Fans, and Owners**

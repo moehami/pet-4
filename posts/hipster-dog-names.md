@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "10 Unique Hipster Dog Names: Cool & Ironic"
+date: "2024-12-08"
+excerpt: "Find the perfect name for your trendy pup! Explore our list of 10 cool, unique, and slightly ironic hipster dog names that will turn heads."
+readTime: "14 min read"
 ---
 
 **Hipster Dog Names: 200+ Unique, Cool, and Creative Ideas for Your Dog's Name** 

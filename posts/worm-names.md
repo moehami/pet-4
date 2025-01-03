@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Slithery Worm Names: Wiggles & Digger"
+date: "2024-11-17"
+excerpt: "Find the perfect name for your wriggly worm! Explore our list of 15+ slithery and unique worm names."
+readTime: "13 min read"
 ---
 
 **Worm Names: A Comprehensive Guide to Worm Classification, Identification, and More**

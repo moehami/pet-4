@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Playful Otter Names: River & Bubbles"
+date: "2024-11-13"
+excerpt: "Discover a collection of captivating otter names inspired by their playful personalities and aquatic habitats. Find the ideal name for your pet, character, or business."
+readTime: "16 min read"
 ---
 
 **Otter Names: Ultimate Guide for Naming Your Otter Pup** 

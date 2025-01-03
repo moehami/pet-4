@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Sleepy Koala Names Sleepy & Droopy"
+date: "2024-11-26"
+excerpt: "Find the perfect name for your cuddly koala! Explore our list of 15+ sleepy and unique koala names, inspired by their laid-back lifestyle."
+readTime: "10 min read"
 ---
 
 **Koala Names: Everything You Need to Know About Naming a Koala** 

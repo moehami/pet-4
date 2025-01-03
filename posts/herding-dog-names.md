@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Working Herding Dog Names: Jess & Pip"
+date: "2024-12-27"
+excerpt: "Find the perfect name for your hardworking herding dog! Explore our list of 25+ working and unique herding dog names."
+readTime: "11 min read"
 ---
 
 Here is a draft of a 2,000-word blog article on herding dog names. I've included an outline, detailed content under each heading, and five FAQs at the end. Let me know if you would like anything changed or added. 

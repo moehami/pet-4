@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Tee-rific Golf Dog Names: Birdie & Fore"
+date: "2024-11-15"
+excerpt: "Find the perfect name for your golf-loving canine companion! Explore our list of 15+ tee-rific golf dog names, inspired by the world of golf."
+readTime: "6 min read"
 ---
 
 ### Golf Dog Names: Best List for Caddies and Golfers 

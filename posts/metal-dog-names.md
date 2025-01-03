@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Heavy Metal Dog Names: Slayer & Metallica"
+date: "2024-12-18"
+excerpt: "Find the perfect name for your rock 'n' roll pup! Explore our list of 15+ heavy metal dog names, inspired by your favorite bands."
+readTime: "15 min read"
 ---
 
 **Metal Dog Names: Ultimate Guide for Pup Parents**

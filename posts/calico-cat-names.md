@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Colorful Calico Cat Names Callie & Patches"
+date: "2024-12-02"
+excerpt: "Find the perfect name for your colorful calico cat! Explore our list of 15+ colorful and unique calico cat names, inspired by their tri-colored coats."
+readTime: "8 min read"
 ---
 
 **Calico Cat Names: The Ultimate Guide for Finding the Perfect Name for Your Calico Cat** 

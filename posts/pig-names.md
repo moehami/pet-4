@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Oink-credible Pig Names Wilbur & Porkchop"
+date: "2024-12-08"
+excerpt: "Find the perfect name for your piggy pal! Explore our list of 15+ oink-credible and unique pig names, inspired by their playful personalities."
+readTime: "15 min read"
 ---
 
 **Pig Names: A Comprehensive Guide for Pig Owners**

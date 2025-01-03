@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Cool Striped Cat Names: Stripes & Stripes"
+date: "2024-11-21"
+excerpt: "Find the perfect name for your striped feline! Explore our list of 25+ cool and unique striped cat names."
+readTime: "15 min read"
 ---
 
 ** striped cat names: Best Ideas for Stripey Cat Names [2023]**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Moth-tivating Pet Moth Names Luna & Moth"
+date: "2024-12-24"
+excerpt: "Find the perfect name for your fluttering moth! Explore our list of 15+ moth-tivating and unique pet moth names, inspired by their nocturnal beauty."
+readTime: "5 min read"
 ---
 
 **Pet Moth Names: A Comprehensive Guide for Aspiring Goth Pet Owners**

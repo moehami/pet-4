@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Unique Red Panda Names: Rusty & Clementine"
+date: "2024-12-12"
+excerpt: "Find the perfect name for your adorable red panda! Explore our list of 15+ unique and playful red panda names."
+readTime: "13 min read"
 ---
 
 **Red Panda Names: A Comprehensive Guide for Finding the Perfect Name for Your Red Panda** 

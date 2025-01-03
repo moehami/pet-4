@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Buzzing Fly Names Buzz & Zip"
+date: "2024-11-12"
+excerpt: "Find the perfect name for your buzzing fly! Explore our list of 15+ buzzing and unique fly names, inspired by their swift movements."
+readTime: "15 min read"
 ---
 
 # Fly Names: Ultimate Guide to Different Types of Flies and Their Names

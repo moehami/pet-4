@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "Ultimate List of 50+ Blue Dog Names: Stunning & Unique"
+date: "2024-11-24"
+excerpt: "Looking for a unique name for your blue-coated dog? Discover a collection of 50+ beautiful and meaningful blue dog names that perfectly suit their stunning appearance."
+readTime: "4 min read"
 ---
 
 ## Blue Dog Names: A Comprehensive Guide for Pet Parents

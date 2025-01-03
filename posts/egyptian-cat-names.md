@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Ancient Egyptian Cat Names: Bastet & Isis"
+date: "2024-12-28"
+excerpt: "Honor the ancient Egyptians with these 20+ unique and meaningful cat names, inspired by their feline deities and mythology."
+readTime: "15 min read"
 ---
 
 # Egyptian Cat Names: Meaningful feline monikers inspired by Egypt's ancient history, culture, and mythology

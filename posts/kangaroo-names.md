@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Hopping Kangaroo Names Roo & Skippy"
+date: "2024-11-22"
+excerpt: "Find the perfect name for your hopping kangaroo! Explore our list of 15+ hopping and unique kangaroo names, inspired by their powerful legs and playful nature."
+readTime: "9 min read"
 ---
 
 **Kangaroo Names: The Ultimate Guide to Naming Your Kangaroo** 

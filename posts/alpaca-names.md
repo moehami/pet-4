@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Soft Alpaca Names Cloud & Mist"
+date: "2024-12-08"
+excerpt: "Find the perfect name for your soft and fluffy alpaca! Explore our list of 15+ soft and unique alpaca names."
+readTime: "14 min read"
 ---
 
 Here is a draft of a 2000-word blog article on the topic of alpaca names, incorporating the elements you specified:

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Clever Crow Names Corvus & Poe"
+date: "2024-11-12"
+excerpt: "Find the perfect name for your clever crow! Explore our list of 15+ clever and unique crow names, inspired by their intelligence and adaptability."
+readTime: "12 min read"
 ---
 
 **Crow Names: A Comprehensive Guide to Naming Your Crow** 

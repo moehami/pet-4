@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Swashbuckling Pirate Cat Names: Captain & Flint"
+date: "2024-11-22"
+excerpt: "Ahoy, matey! Find the perfect name for your adventurous feline with these 15+ swashbuckling pirate cat names."
+readTime: "10 min read"
 ---
 
 Here is a blog article on pirate cat names that is 2000 words long and optimized for search engines.

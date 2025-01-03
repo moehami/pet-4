@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Classic Tabby Cat Names: Stripes & Socks"
+date: "2024-11-19"
+excerpt: "Find the perfect name for your tabby cat! Explore our list of 25+ classic tabby cat names, inspired by their distinctive markings."
+readTime: "14 min read"
 ---
 
 **Tabby Cat Names: The Best Names for Tabby Cats, Female Tabbies, and Male Tabbies** 

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Wild Wolf Names Ghost & Spirit"
+date: "2024-11-28"
+excerpt: "Find the perfect name for your wild and majestic wolf! Explore our list of 25+ wild and unique wolf names, inspired by their strength and pack mentality."
+readTime: "9 min read"
 ---
 
 **Wolf Names: Ultimate Guide for Naming Your Wolf Pup or Animal Companion**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15 Swashbuckling Pirate Dog Names: Captain & Flint"
+date: "2024-12-10"
+excerpt: "Ahoy, matey! Find the perfect name for your adventurous canine with these 15 swashbuckling pirate dog names."
+readTime: "11 min read"
 ---
 
 Here is a blog article on pirate dog names, written with the flair of a professional content writer with expertise in SEO and blog writing. 

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Elegant Siamese Cat Names Siam & Jade"
+date: "2024-12-06"
+excerpt: "Find the perfect name for your elegant Siamese cat! Explore our list of 20+ elegant and unique Siamese cat names, inspired by their striking appearance."
+readTime: "14 min read"
 ---
 
 ## Siamese Cat Names: The Ultimate Guide for Finding the Perfect Moniker for Your Feline Friend

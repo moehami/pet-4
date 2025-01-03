@@ -21,7 +21,7 @@ const nextConfig = {
     serverActions: true,
   },
  compress: true,
- output: 'export',
+ //output: 'export',
   eslint: {
     ignoreDuringBuilds: true,
   },

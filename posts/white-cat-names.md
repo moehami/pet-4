@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Pure White Cat Names: Snow & Ivory"
+date: "2024-11-03"
+excerpt: "Find the perfect name for your snowy-white cat! Explore our list of 30+ pure white cat names, inspired by their pristine appearance."
+readTime: "11 min read"
 ---
 
 **White Cat Names: The Ultimate Guide for Finding the Perfect Name for Your Snowy Feline**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Unique Spotted Dog Names: Spot & Domino"
+date: "2024-12-18"
+excerpt: "Find the perfect name for your spotted canine! Explore our list of 25+ unique and playful spotted dog names, inspired by their distinctive markings."
+readTime: "14 min read"
 ---
 
 **Spotty Dog Names: The Ultimate Guide for Spotted Pup Names** 

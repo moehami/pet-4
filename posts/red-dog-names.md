@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Fiery Red Dog Names: Ruby & Blaze"
+date: "2024-11-25"
+excerpt: "Find the perfect name for your fiery red dog! Explore our list of 25+ fiery and spirited red dog names."
+readTime: "11 min read"
 ---
 
 **Red Dog Names: A Comprehensive Guide for Dog Owners**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Spotted Leopard Names: Spot & Leo"
+date: "2024-12-31"
+excerpt: "Find the perfect name for your spotted feline! Explore our list of 20+ spotted and unique leopard names, inspired by their grace and agility."
+readTime: "15 min read"
 ---
 
 **Leopard Names: Ultimate Guide for Naming Your Leopard-Themed Venture**

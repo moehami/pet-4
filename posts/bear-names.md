@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Powerful Bear Names: Baloo & Yogi"
+date: "2024-11-08"
+excerpt: "Find the perfect name for your majestic bear! Explore our list of 30+ powerful and unique bear names, inspired by their strength and size."
+readTime: "7 min read"
 ---
 
 **Bear Names: A Comprehensive Guide to Knowing and Understanding These Powerful Beasts**

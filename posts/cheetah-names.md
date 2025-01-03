@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Speedy Cheetah Names Flash & Bolt"
+date: "2024-11-15"
+excerpt: "Find the perfect name for your speedy cheetah! Explore our list of 20+ speedy and unique cheetah names, inspired by their incredible speed and agility."
+readTime: "11 min read"
 ---
 
 **Cheetah Names: A Comprehensive Guide for Uncommon Inspiration**

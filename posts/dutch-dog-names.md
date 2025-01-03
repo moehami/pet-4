@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Best Dutch Dog Names: Authentic & Meaningful"
+date: "2024-11-17"
+excerpt: "Celebrate your Dutch heritage with a unique and meaningful Dutch dog name. Explore our list of 25+ traditional and modern options for your beloved canine companion."
+readTime: "13 min read"
 ---
 
 ## Dutch Dog Names: Ultimate Guide for 2022 [Meta Description: Find the perfect Dutch-inspired name for your furry friend! Our guide provides a variety of options, their meanings, and the personality traits associated with each. Get inspired and choose a name that reflects your pup's personality.]

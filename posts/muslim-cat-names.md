@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Beautiful Muslim Cat Names: Aisha & Bilal"
+date: "2024-12-06"
+excerpt: "Find the perfect name for your feline friend with these 15+ beautiful and meaningful Muslim cat names."
+readTime: "13 min read"
 ---
 
 ## Muslim Cat Names: A Comprehensive Guide for Pet Owners and Animal Lovers

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Wild Tiger Cat Names: Stripes & Rajah"
+date: "2024-12-03"
+excerpt: "Find the perfect name for your tiger-striped cat! Explore our list of 25+ wild and adventurous tiger cat names."
+readTime: "5 min read"
 ---
 
 **Tiger Cat Names: The Ultimate Guide for Finding the Perfect Name for Your Striped Companion**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Feathery Finch Names Chirp & Tweet"
+date: "2024-12-25"
+excerpt: "Find the perfect name for your cheerful finch! Explore our list of 15+ feathery and unique finch names, inspired by their melodious songs."
+readTime: "15 min read"
 ---
 
 **Finch Names: A Comprehensive Guide for Bird Lovers**

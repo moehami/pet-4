@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Wild Coyote Names: Spirit & Whisper"
+date: "2024-12-04"
+excerpt: "Find the perfect name for your cunning coyote! Explore our list of 15+ wild and unique coyote names, inspired by their intelligence and agility."
+readTime: "8 min read"
 ---
 
 **Coyote Names: Ultimate Guide for Naming Your Coyote Companion** 

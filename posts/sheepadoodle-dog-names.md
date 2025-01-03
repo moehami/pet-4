@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Sweet Sheepadoodle Names: Cloud & Pip"
+date: "2024-11-11"
+excerpt: "Find the perfect name for your fluffy Sheepadoodle! Explore our list of 30+ sweet and playful Sheepadoodle names, inspired by their gentle and loving nature."
+readTime: "14 min read"
 ---
 
 Here is a draft of a 2,000-word blog article on Sheepadoodle dog names that is SEO-optimized, includes an outline with headings and subheadings, and aims to be engaging and informative:

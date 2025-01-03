@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Adorable Panda Names Po & Mei"
+date: "2024-11-29"
+excerpt: "Find the perfect name for your cuddly panda! Explore our list of 15+ adorable and unique panda names, inspired by their playful and endearing nature."
+readTime: "14 min read"
 ---
 
 **Panda Names: A Comprehensive Guide to Naming Your Panda**

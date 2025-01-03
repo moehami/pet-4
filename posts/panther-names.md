@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Majestic Panther Names: Shadow & Onyx"
+date: "2024-12-21"
+excerpt: "Find the perfect name for your sleek and powerful panther! Explore our list of 20+ majestic panther names, inspired by their grace and stealth."
+readTime: "12 min read"
 ---
 
 **Panther Names: Ultimate Guide for Naming Your Panther** 

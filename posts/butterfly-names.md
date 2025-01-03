@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Beautiful Butterfly Names Flutter & Pixie"
+date: "2024-11-16"
+excerpt: "Find the perfect name for your beautiful butterfly! Explore our list of 20+ beautiful and unique butterfly names, inspired by their vibrant colors and graceful flight."
+readTime: "16 min read"
 ---
 
 **Butterfly Names: A Comprehensive Guide to Different Butterfly Species and Their Characteristics** 

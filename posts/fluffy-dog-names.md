@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "50+ Adorable Fluffy Dog Names: Soft & Sweet"
+date: "2024-11-11"
+excerpt: "Find the perfect name for your cloud-like canine! Explore our list of 50+ adorable and fluffy dog names that perfectly suit their soft and cuddly appearance."
+readTime: "9 min read"
 ---
 
 # Fluffy Dog Names: Ultimate Guide for Pet Parents 

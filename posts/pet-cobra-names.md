@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Fearless Cobra Names: Fang & Viper"
+date: "2024-12-02"
+excerpt: "Find the perfect name for your captivating cobra! Explore our list of 15+ fearless and unique cobra names, inspired by their strength and beauty."
+readTime: "5 min read"
 ---
 
 **Pet Cobra Names: The Complete Guide for Cobra Owners**

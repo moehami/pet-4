@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Majestic Antelope Names: Gazelle & Impala"
+date: "2024-11-22"
+excerpt: "Discover a fascinating list of antelope names, from the graceful Gazelle to the powerful Eland. Learn about the unique characteristics and origins of these captivating creatures."
+readTime: "11 min read"
 ---
 
 **Antelope Names: A Comprehensive Guide to Understanding These Majestic Animals**

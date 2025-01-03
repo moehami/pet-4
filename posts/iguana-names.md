@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Scaly Iguana Names: Iggy & Draco"
+date: "2024-12-27"
+excerpt: "Find the perfect name for your reptilian companion! Explore our list of 15+ scaly and unique iguana names."
+readTime: "12 min read"
 ---
 
 **Iguana Names: Ultimate Guide for Finding the Perfect Name for Your Iguana** 

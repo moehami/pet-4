@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Fearsome Alligator Names Swampy & Gator"
+date: "2024-11-06"
+excerpt: "Find the perfect name for your fearsome alligator! Explore our list of 15+ fearsome and unique alligator names, inspired by their power and strength."
+readTime: "5 min read"
 ---
 
 **Alligator Names: Ultimate Guide for Pet Lovers & Researchers** 

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Strong Pitbull Dog Names: Tyson & Luna"
+date: "2024-11-02"
+excerpt: "Find the perfect name for your powerful Pitbull! Explore our list of 30+ strong and confident Pitbull dog names."
+readTime: "10 min read"
 ---
 
 ## Pitbull Dog Names: The Ultimate Guide for Finding the Perfect Name for Your Pitbull

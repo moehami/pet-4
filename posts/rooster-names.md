@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Cock-a-Doodle-Doo Rooster Names: Rooster & Chanticleer"
+date: "2024-11-28"
+excerpt: "Find the perfect name for your proud rooster! Explore our list of 15+ cock-a-doodle-doo rooster names, inspired by their vibrant personalities."
+readTime: "15 min read"
 ---
 
 Here is a draft of a 2000-word blog article on rooster names, using the writing style and format you requested. I've included an outline, detailed content under each heading, and 5 FAQs at the end. Let me know if you would like any adjustments. 

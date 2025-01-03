@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Super Dog Names: Flash & Wonder"
+date: "2024-12-03"
+excerpt: "Find the perfect name for your heroic canine! Explore our list of 20+ super dog names, inspired by your favorite superheroes."
+readTime: "10 min read"
 ---
 
 Here is a draft of a 2000-word blog article on superhero dog names. I've included an outline, detailed content, and 5 sample FAQs at the end, as you requested using the Markdown format. I've also included some bolded headings and titles as you instructed. Let me know if you would like any changes or additions and I will be happy to adjust my response to suit your needs. 

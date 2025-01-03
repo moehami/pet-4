@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Elegant Gray Rabbit Names: Silver & Smoke"
+date: "2024-12-08"
+excerpt: "Discover a collection of 20+ elegant gray rabbit names, inspired by their soft and subtle grey coats."
+readTime: "5 min read"
 ---
 
 **Gray Rabbit Names: Ultimate Guide for Naming Your Gray Rabbit with 180+ Suggestions**

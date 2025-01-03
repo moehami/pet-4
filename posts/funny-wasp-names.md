@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Hilarious Wasp Names: Buzz & Stinger"
+date: "2024-11-23"
+excerpt: "Find the perfect name for your buzzing friend (with a sense of humor)! Explore our list of 15+ hilarious and unique wasp names, inspired by their buzzing antics."
+readTime: "7 min read"
 ---
 
 # Funny Wasp Names - The Ultimate Guide to Naming These Spirited Insects 

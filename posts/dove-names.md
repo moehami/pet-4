@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Peaceful Dove Names Peace & Serenity"
+date: "2024-11-20"
+excerpt: "Find the perfect name for your peaceful dove! Explore our list of 15+ peaceful and unique dove names, inspired by their gentle nature and symbol of peace."
+readTime: "8 min read"
 ---
 
 **Dove Names: A Comprehensive Guide for Bird Lovers**

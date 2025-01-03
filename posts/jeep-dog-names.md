@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15 Ultimate Jeep Dog Names: Tough & Adventurous"
+date: "2024-12-15"
+excerpt: "For the ultimate off-road companion! Find the perfect Jeep-inspired name for your adventurous dog. Explore our list of 15 tough, rugged, and trail-ready names."
+readTime: "10 min read"
 ---
 
 Here is a draft of a blog article on the topic of jeep dog names. The article is written in Markdown format, with bolded titles and headings. 

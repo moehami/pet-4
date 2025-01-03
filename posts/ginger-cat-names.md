@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Fiery Ginger Cat Names: Rusty & Marmalade"
+date: "2024-11-18"
+excerpt: "Find the perfect name for your fiery ginger cat! Explore our list of 25+ fiery and spirited ginger cat names."
+readTime: "7 min read"
 ---
 
 **Ginger Cat Names: The Ultimate Guide for Orange Kitty Lovers**

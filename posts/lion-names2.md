@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "25+ Majestic Lion Names Simba & Mufasa"
+date: "2024-11-02"
+excerpt: "Find the perfect name for your majestic lion! Explore our list of 25+ majestic and unique lion names, inspired by their strength and courage."
+readTime: "15 min read"
 ---
 
 **Lion Names: Ultimate Guide for Naming Your Lion Familiar** 

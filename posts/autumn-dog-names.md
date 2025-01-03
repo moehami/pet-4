@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Cozy Autumn Dog Names: Maple & Ember"
+date: "2024-11-19"
+excerpt: "Find the perfect name for your fall-loving canine! Explore our list of 20+ cozy and autumnal dog names, inspired by the changing seasons."
+readTime: "8 min read"
 ---
 
 ## Subject: Autumn Dog Names: A Comprehensive Guide for Dog Owners

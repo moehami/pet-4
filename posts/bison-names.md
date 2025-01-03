@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Powerful Bison Names: Buffalo & Bison"
+date: "2024-11-18"
+excerpt: "Find the perfect name for your strong and sturdy bison! Explore our list of 20+ powerful bison names, inspired by their strength and resilience."
+readTime: "11 min read"
 ---
 
 **Bison Names: A Comprehensive Guide to Naming Your Bison** 

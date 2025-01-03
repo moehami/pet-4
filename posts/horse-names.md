@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "100+ Best Horse Names: Elegant & Powerful"
+date: "2024-11-03"
+excerpt: "Find the perfect name for your majestic horse! Explore our extensive list of 100+ best horse names, from elegant and classic to powerful and unique."
+readTime: "6 min read"
 ---
 
 Sure, here is a 2000-word blog article on horse names, formatted in Markdown with the specifications that you requested:

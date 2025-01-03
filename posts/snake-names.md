@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Slithery Snake Names: Python & Cobra"
+date: "2024-11-30"
+excerpt: "Find the perfect name for your reptilian friend! Explore our list of 20+ slithery and unique snake names."
+readTime: "10 min read"
 ---
 
 **Snake Names: Ultimate List of 270+ Popular Moniker Options for Pet Snakes**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "20+ Unique Names for Hairless Cats: Sphinx & Shadow"
+date: "2024-12-14"
+excerpt: "Find the perfect name for your unique hairless cat! Explore our list of 20+ unique and stylish names that suit their distinctive appearance."
+readTime: "13 min read"
 ---
 
 # Hairless Cat Names: Unique, Fun, and Creative Ideas for Your Sphynx or Hairless Cat

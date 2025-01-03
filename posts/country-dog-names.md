@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Best Country Dog Names: Rustic & Charming"
+date: "2024-11-04"
+excerpt: "Find the perfect country-inspired name for your dog! Explore our list of 30+ rustic, charming, and down-to-earth names that capture the spirit of the countryside."
+readTime: "9 min read"
 ---
 
 ## Country Dog Names: A Comprehensive Guide for Pet Parents

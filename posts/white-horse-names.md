@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "35+ Elegant White Horse Names: Snow & Pearl"
+date: "2024-12-09"
+excerpt: "Find the perfect name for your majestic white horse! Explore our list of 35+ elegant white horse names, inspired by their pure and noble appearance."
+readTime: "14 min read"
 ---
 
 Here is a draft of a 2000-word blog article on the topic of white horse names. I've included an outline, detailed content, and 5 FAQs at the end. Please note that the article assumes the reader will be assigning names to a white horse, but the name doesn't necessarily have to be limited to horses that are white-colored. 

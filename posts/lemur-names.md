@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Playful Lemur Names Moko & Zoboomafoo"
+date: "2024-12-10"
+excerpt: "Find the perfect name for your playful lemur! Explore our list of 15+ playful and unique lemur names, inspired by their acrobatic antics."
+readTime: "10 min read"
 ---
 
 **Lemur Names: A Comprehensive Guide to Understanding and Admiring These Unique Animals**

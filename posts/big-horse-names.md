@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Powerful Names for Big Horses: Titan & Goliath"
+date: "2024-12-16"
+excerpt: "Find the perfect name for your majestic and powerful horse! Explore our list of 30+ strong names that suit their impressive size."
+readTime: "9 min read"
 ---
 
 **Big Horse Names: A Comprehensive Guide for Equestrians** 

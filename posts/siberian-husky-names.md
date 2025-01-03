@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "30+ Icy Siberian Husky Names: Blizzard & Snow"
+date: "2024-11-14"
+excerpt: "Find the perfect name for your majestic Siberian Husky! Explore our list of 30+ icy and unique Siberian Husky names, inspired by their arctic heritage."
+readTime: "14 min read"
 ---
 
 Here is a draft of a blog article on Siberian Husky names. It's important to note that this is just a draft, and I am happy to make edits and adjustments if needed.

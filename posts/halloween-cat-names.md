@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Spooky Halloween Cat Names Spooky & Shadow"
+date: "2024-12-14"
+excerpt: "Find the perfect name for your Halloween-loving feline! Explore our list of 15+ spooky and unique Halloween cat names, inspired by all things spooky."
+readTime: "6 min read"
 ---
 
 ## Title: Unique Halloween Cat Names for Your Black Cat, Pumpkin, and More!

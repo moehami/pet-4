@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Striped Zebra Names Stripes & Zeba"
+date: "2024-12-11"
+excerpt: "Find the perfect name for your striped zebra! Explore our list of 15+ striped and unique zebra names, inspired by their distinctive markings."
+readTime: "12 min read"
 ---
 
 **Zebra Names: The Ultimate Guide to Naming Your Zebra-Themed Venture**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Nutty Squirrel Names: Nutmeg & Acorn"
+date: "2024-11-23"
+excerpt: "From playful to mischievous, find the perfect name for your pet squirrel or use these inspiring squirrel names for your creative projects. Explore a diverse list of options."
+readTime: "11 min read"
 ---
 
 **Squirrel Names: A Comprehensive Guide to Naming Your Squirrel**

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+title: "15+ Tiny Mouse Names Mickey & Minnie"
 date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+excerpt: "Find the perfect name for your tiny mouse! Explore our list of 15+ tiny and unique mouse names, inspired by their small size and quick movements."
+readTime: "14 min read"
 ---
 
 # Mouse Names: A Comprehensive Guide to Naming Your Pet Mouse

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
-date: "2025-01-01"
-excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
-readTime: "6 mins read"
+title: "15+ Home Run Dog Names: Homer & Slugger"
+date: "2024-11-17"
+excerpt: "Find the perfect name for your baseball-loving pup! Explore our list of 15+ home run dog names, inspired by the world of baseball."
+readTime: "16 min read"
 ---
 
 ## Baseball Dog Names: A Comprehensive Guide for Pet Owners and Fans
