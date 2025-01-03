@@ -1,4 +1,3 @@
-// netlify/functions/scheduledTask.js
 const fs = require('fs');
 const path = require('path');
 
@@ -6,10 +5,12 @@ exports.handler = async function (event, context) {
   console.log('Starting scheduled task...');
   console.log('Current working directory:', __dirname);
 
-  // Your task logic here, for example:
-  const filePath = path.join(__dirname, 'source', 'seo.json');
+  // Verify the current directory structure
+  console.log('Directory contents:', fs.readdirSync(__dirname));
 
-  // Simulate some file handling or other tasks
+  const filePath = path.join(__dirname, 'source', 'seo.json');
+  console.log('Checking file path:', filePath);
+
   try {
     if (fs.existsSync(filePath)) {
       console.log('File exists:', filePath);
