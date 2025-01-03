@@ -5,9 +5,11 @@
   publish = "/out"
   base = "/"
   node_version = "20.17.0"
-
+[functions]
+  directory = "netlify/functions"
+  included_files = ["source/**"]
 [functions."generate-metadata"]
-schedule = "25 1 * * *" # Runs daily at midnight
+schedule = "30 1 * * *" # Runs daily at midnight
 [functions."generate-sitemap"]
 schedule = "0 1 * * *" # Runs every day at 01:00 AM
 
