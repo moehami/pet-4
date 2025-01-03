@@ -6,28 +6,29 @@ exports.handler = async function (event, context) {
   console.log('Starting scheduled task...');
 
   try {
-    // Source and temporary paths
-    const sourceFolder = path.join(__dirname, '..', 'public', 'source');
-    const tmpFolderPath = path.join('/tmp', 'public', 'source');
-    const tmpSeoFilePath = path.join(tmpFolderPath, 'seo.json');
+    // Paths within the function's bundle
+    const sourceFolder = path.join(__dirname, 'source'); // Directory bundled with the function
+    const seoFilePath = path.join(sourceFolder, 'seo.json');
+    const tmpFolderPath = path.join('/tmp', 'source');
     const tmpDestPath = path.join('/tmp', 'posts');
 
     // Create temporary folders
     fs.mkdirSync(tmpFolderPath, { recursive: true });
     fs.mkdirSync(tmpDestPath, { recursive: true });
 
-    // Copy seo.json to /tmp
-    const originalSeoPath = path.join(sourceFolder, 'seo.json');
-    if (fs.existsSync(originalSeoPath)) {
-      fs.copyFileSync(originalSeoPath, tmpSeoFilePath);
-      console.log('seo.json copied to /tmp successfully.');
-    } else {
-      console.error(`SEO file seo.json not found at ${originalSeoPath}`);
+    // Check if seo.json exists in the source folder
+    if (!fs.existsSync(seoFilePath)) {
+      console.error(`SEO file seo.json not found at ${seoFilePath}`);
       return {
         statusCode: 500,
         body: JSON.stringify({ error: 'SEO file not found' }),
       };
     }
+
+    // Copy seo.json to /tmp
+    const tmpSeoFilePath = path.join(tmpFolderPath, 'seo.json');
+    fs.copyFileSync(seoFilePath, tmpSeoFilePath);
+    console.log('seo.json copied to /tmp successfully.');
 
     // Helper function to get the current date
     const getCurrentDate = () => {
@@ -56,12 +57,10 @@ exports.handler = async function (event, context) {
       };
     }
 
-    // Limit number of files
-    const LIMIT = 10;
-    let processedCount = 0;
-
-    // Copy markdown files into /tmp
+    // Process markdown files in the source folder
     const mdFiles = fs.readdirSync(sourceFolder).filter((file) => file.endsWith('.md'));
+    const LIMIT = 10; // Limit the number of files to process
+    let processedCount = 0;
 
     for (const file of mdFiles) {
       if (processedCount >= LIMIT) break;
