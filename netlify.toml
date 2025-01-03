@@ -15,4 +15,4 @@ directory = "netlify/functions"
   schedule = "0 1 * * *"  # Runs every day at 01:00 AM
 
   [functions."scheduledTask"] 
-  schedule = "12 2 * * *" # This runs daily at 01:47 AM
+  schedule = "18 2 * * *" # This runs daily at 01:47 AM

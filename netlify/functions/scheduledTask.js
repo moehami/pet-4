@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+// Netlify Scheduled Function Handler
 exports.handler = async function (event, context) {
   console.log('Starting scheduled task...');
   console.log('Current working directory:', __dirname);
@@ -8,7 +9,8 @@ exports.handler = async function (event, context) {
   // Verify the current directory structure
   console.log('Directory contents:', fs.readdirSync(__dirname));
 
-  const filePath = path.join(__dirname, 'source', 'seo.json');
+  // Adjust the path to match the actual location of seo.json
+  const filePath = path.join(__dirname, 'seo.json');
   console.log('Checking file path:', filePath);
 
   try {
