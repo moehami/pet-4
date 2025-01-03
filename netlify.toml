@@ -7,7 +7,7 @@
   node_version = "20.17.0"
 
 [functions."generate-metadata"]
-schedule = "10 1 * * *" # Runs daily at midnight
+schedule = "14 1 * * *" # Runs daily at midnight
 [functions."generate-sitemap"]
 schedule = "0 1 * * *" # Runs every day at 01:00 AM
 
