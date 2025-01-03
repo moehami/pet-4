@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "Top 20 Hamster Names: Cute & Cheeky"
 date: "2025-01-03"
 excerpt: "Looking for the perfect name for your hamster? Discover our list of 20 cute and cheeky hamster names, inspired by their tiny size and playful personalities."

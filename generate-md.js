@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the folder and text to prepend
-const folderPath = path.join(__dirname, 'public', 'testa');
+const folderPath = path.join(__dirname, 'posts');
 const textToPrepend = `---
 title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
 date: "2025-01-01"

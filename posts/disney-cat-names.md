@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "20+ Magical Disney Cat Names Simba & Figaro"
 date: "2025-01-03"
 excerpt: "Bring the magic of Disney to your feline friend! Explore our list of 20+ magical and unique Disney cat names, inspired by your favorite Disney characters."

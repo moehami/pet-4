@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "100+ Best Dog Names: Classic & Unique"
 date: "2025-01-03"
 excerpt: "Find the perfect name for your beloved canine companion! Explore our extensive list of 100+ best dog names, from classic and timeless to unique and quirky."

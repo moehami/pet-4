@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "15+ Luxurious Dog Names: Diamond & Gatsby"
 date: "2025-01-03"
 excerpt: "Find the perfect name for your pampered pup! Explore our list of 15+ luxurious and unique dog names, fit for a canine king or queen."

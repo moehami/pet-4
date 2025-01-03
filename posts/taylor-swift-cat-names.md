@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "15+ Purrfect Taylor Swift Cat Names Meredith & Olivia"
 date: "2025-01-03"
 excerpt: "For the ultimate Swiftie! Find the perfect name for your feline friend, inspired by Taylor Swift's songs, albums, and loves."

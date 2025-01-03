@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "15+ Quirky Skunk Names: Pepe & Stripes"
 date: "2025-01-03"
 excerpt: "Looking for a unique and quirky name? Explore our list of 15+ creative skunk names, perfect for pets, characters, or any project that needs a touch of mischievous charm."

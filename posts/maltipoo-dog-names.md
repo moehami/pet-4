@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "40+ Adorable Maltipoo Dog Names: Fluffy & Sweet"
 date: "2025-01-03"
 excerpt: "Find the perfect name for your fluffy Maltipoo! Explore our list of 40+ adorable Maltipoo dog names, inspired by their playful and loving personalities."

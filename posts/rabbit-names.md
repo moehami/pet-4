@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "30+ Cute Rabbit Names: Bunnies & Flopsy"
 date: "2025-01-03"
 excerpt: "Find the perfect name for your adorable rabbit! Explore our list of 30+ cute and unique rabbit names, inspired by their playful and cuddly personalities."

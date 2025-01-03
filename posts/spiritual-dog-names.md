@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "Top 20 Spiritual Dog Names: Divine & Meaningful"
 date: "2025-01-03"
 excerpt: "Give your dog a name that reflects your spiritual connection. Discover a list of 20 meaningful and inspiring spiritual dog names, from ancient deities to peaceful virtues."

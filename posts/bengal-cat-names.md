@@ -1,4 +1,11 @@
 ---
+title: "The Ultimate Guide to Cavapoo Dog Names: 100+ Adorable Ideas and Tips"
+date: "2025-01-01"
+excerpt: "Find the perfect name for your Cavapoo! This guide offers 100+ adorable name ideas, tips for choosing, and inspiration to help you find the ideal match for your furry friend."
+readTime: "6 mins read"
+---
+
+---
 title: "20+ Wild Bengal Cat Names: Rajah & Shere Khan"
 date: "2025-01-03"
 excerpt: "Find the perfect name for your wild and beautiful Bengal cat! Explore our list of 20+ wild and adventurous Bengal cat names, inspired by their exotic appearance."
