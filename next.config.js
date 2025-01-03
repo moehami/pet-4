@@ -10,7 +10,19 @@ const nextConfig = {
       },
     ],
   },
-  
+  async headers() {
+    return [
+      {
+        source: "/_next/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+        ],
+      },
+    ];
+  },
   // Enable experimental features if needed
   experimental: {
     // Enable if you need app directory features
