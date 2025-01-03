@@ -5,9 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "export": "next build && next export && node scripts/generate-sitemap.js"
+    "start": "next start"
+
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
