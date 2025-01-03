@@ -7,8 +7,8 @@ exports.handler = async function (event, context) {
 
   try {
     // Define folder and file paths
-    const folderPath = path.join(__dirname, 'public', 'source');
-    const seoFilePath = path.join(__dirname, 'public', 'source', 'seo.json');
+    const folderPath = path.join(__dirname, '/tmp', 'public', 'source');
+    const seoFilePath = path.join(__dirname, '/tmp', 'public', 'source', 'seo.json');
  //   const destPath = path.join(__dirname, 'posts');
 const destPath = path.join('/tmp', 'posts');
     // Create destination folder if it doesn't exist
